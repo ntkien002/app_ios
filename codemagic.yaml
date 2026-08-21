@@ -5,7 +5,7 @@ workflows:
     instance_type: mac_mini_m1
 
     environment:
-      node: 18.17.0
+      node: 20.17.0
       xcode: latest
       cocoapods: default
 
@@ -16,13 +16,54 @@ workflows:
           rm -rf node_modules
           npm install
 
+      - name: Replace Tailwind v4 with v3
+        script: |
+          npm uninstall tailwindcss @tailwindcss/vite
+          npm install -D tailwindcss@3.4.17 postcss@8 autoprefixer@10
+
+      - name: Patch vite.config.ts
+        script: |
+          cat > vite.config.ts << 'EOF'
+          import react from '@vitejs/plugin-react';
+          import path from 'path';
+          import { defineConfig } from 'vite';
+
+          export default defineConfig({
+            plugins: [react()],
+            resolve: {
+              alias: {
+                '@': path.resolve(__dirname, '.'),
+              },
+            },
+          });
+          EOF
+
+      - name: Create postcss.config.js
+        script: |
+          cat > postcss.config.js << 'EOF'
+          export default {
+            plugins: {
+              tailwindcss: {},
+              autoprefixer: {},
+            },
+          };
+          EOF
+
+      - name: Create tailwind.config.js
+        script: |
+          cat > tailwind.config.js << 'EOF'
+          export default {
+            content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
+            theme: { extend: {} },
+            plugins: [],
+          };
+          EOF
+
       - name: Build web app
         script: npm run build
 
-      - name: Install Capacitor iOS
-        script: |
-          npm install @capacitor/core @capacitor/cli @capacitor/ios
-          npx cap add ios || true
+      - name: Install Capacitor
+        script: npx cap add ios || true
 
       - name: Sync Capacitor
         script: npx cap sync ios
