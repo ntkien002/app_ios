@@ -634,9 +634,9 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-zinc-100 flex justify-center text-zinc-900 font-sans antialiased selection:bg-blue-100 selection:text-blue-900">
+    <div className="min-h-screen bg-black flex justify-center text-zinc-100 font-sans antialiased selection:bg-blue-900 selection:text-blue-200">
       {/* iOS Mobile Canvas Container */}
-      <div className="w-full max-w-md min-h-screen bg-zinc-50 flex flex-col shadow-2xl relative border-x border-zinc-200/80">
+      <div className="w-full max-w-md min-h-screen bg-zinc-950 flex flex-col shadow-2xl relative border-x border-zinc-800">
         {/* iOS Dynamic Island & Status Bar */}
         <IOSStatusBar />
 

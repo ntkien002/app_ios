@@ -82,25 +82,26 @@ export function SettingsModal({
     { value: "4", label: "4s" },
     { value: "6", label: "6s" },
     { value: "8", label: "8s" },
-    { value: "12", label: "12s" },
+    { value: "10", label: "10s (Chuẩn)" },
+    { value: "15", label: "15s" },
   ];
 
   return (
     <div id="settings-view" className="space-y-4 pb-24 select-none">
       {/* Audio / Voice Pronunciation Section */}
-      <div className="bg-white rounded-3xl p-5 border border-zinc-200/80 shadow-xs space-y-4">
+      <div className="bg-zinc-900/90 rounded-3xl p-5 border border-zinc-800 shadow-sm space-y-4">
         <div className="flex items-center space-x-2">
-          <div className="w-8 h-8 rounded-xl bg-blue-50 text-blue-600 flex items-center justify-center">
+          <div className="w-8 h-8 rounded-xl bg-blue-950/80 border border-blue-800/60 text-blue-400 flex items-center justify-center">
             <Volume2 className="w-4 h-4" />
           </div>
           <div>
-            <h3 className="text-sm font-bold text-zinc-900 tracking-tight">Âm Thanh & Phát Âm</h3>
-            <p className="text-xs text-zinc-500">Tốc độ đọc giọng bản xứ US/UK</p>
+            <h3 className="text-sm font-bold text-white tracking-tight">Âm Thanh & Phát Âm</h3>
+            <p className="text-xs text-zinc-400">Tốc độ đọc giọng bản xứ US/UK</p>
           </div>
         </div>
 
         <div>
-          <label className="block text-xs font-semibold text-zinc-600 uppercase tracking-wider mb-2">
+          <label className="block text-xs font-semibold text-zinc-400 uppercase tracking-wider mb-2">
             Tốc độ phát âm:
           </label>
           <IOSSegmentedControl
@@ -111,10 +112,10 @@ export function SettingsModal({
           />
         </div>
 
-        <div className="flex items-center justify-between pt-2 border-t border-zinc-100">
+        <div className="flex items-center justify-between pt-2 border-t border-zinc-800">
           <div>
-            <div className="text-xs font-semibold text-zinc-800">Hiệu ứng âm thanh tương tác</div>
-            <div className="text-[11px] text-zinc-500">Âm thanh khi trả lời đúng, sai, hoàn thành</div>
+            <div className="text-xs font-semibold text-zinc-200">Hiệu ứng âm thanh tương tác</div>
+            <div className="text-[11px] text-zinc-400">Âm thanh khi trả lời đúng, sai, hoàn thành</div>
           </div>
           <IOSSwitch
             id="switch-sound-fx"
@@ -125,19 +126,19 @@ export function SettingsModal({
       </div>
 
       {/* Quiz Timing & Auto Advance */}
-      <div className="bg-white rounded-3xl p-5 border border-zinc-200/80 shadow-xs space-y-4">
+      <div className="bg-zinc-900/90 rounded-3xl p-5 border border-zinc-800 shadow-sm space-y-4">
         <div className="flex items-center space-x-2">
-          <div className="w-8 h-8 rounded-xl bg-purple-50 text-purple-600 flex items-center justify-center">
+          <div className="w-8 h-8 rounded-xl bg-purple-950/80 border border-purple-800/60 text-purple-400 flex items-center justify-center">
             <Clock className="w-4 h-4" />
           </div>
           <div>
-            <h3 className="text-sm font-bold text-zinc-900 tracking-tight">Cấu Hình Bài Luyện</h3>
-            <p className="text-xs text-zinc-500">Thời gian đếm ngược và quy tắc kiểm tra</p>
+            <h3 className="text-sm font-bold text-white tracking-tight">Cấu Hình Bài Luyện (Mặc định 10s)</h3>
+            <p className="text-xs text-zinc-400">Thời gian đếm ngược và quy tắc kiểm tra</p>
           </div>
         </div>
 
         <div>
-          <label className="block text-xs font-semibold text-zinc-600 uppercase tracking-wider mb-2">
+          <label className="block text-xs font-semibold text-zinc-400 uppercase tracking-wider mb-2">
             Thời gian mỗi câu hỏi:
           </label>
           <IOSSegmentedControl
@@ -148,10 +149,10 @@ export function SettingsModal({
           />
         </div>
 
-        <div className="flex items-center justify-between pt-2 border-t border-zinc-100">
+        <div className="flex items-center justify-between pt-2 border-t border-zinc-800">
           <div>
-            <div className="text-xs font-semibold text-zinc-800">Bật đồng hồ đếm ngược</div>
-            <div className="text-[11px] text-zinc-500">Giới hạn thời gian suy nghĩ</div>
+            <div className="text-xs font-semibold text-zinc-200">Bật đồng hồ đếm ngược</div>
+            <div className="text-[11px] text-zinc-400">Giới hạn thời gian suy nghĩ</div>
           </div>
           <IOSSwitch
             id="switch-settings-timer"
@@ -160,10 +161,10 @@ export function SettingsModal({
           />
         </div>
 
-        <div className="flex items-center justify-between pt-2 border-t border-zinc-100">
+        <div className="flex items-center justify-between pt-2 border-t border-zinc-800">
           <div>
-            <div className="text-xs font-semibold text-zinc-800">Tự động chuyển câu</div>
-            <div className="text-[11px] text-zinc-500">Tự sang câu kế sau khi giải đáp</div>
+            <div className="text-xs font-semibold text-zinc-200">Tự động chuyển câu</div>
+            <div className="text-[11px] text-zinc-400">Tự sang câu kế sau khi giải đáp</div>
           </div>
           <IOSSwitch
             id="switch-settings-auto-advance"
@@ -174,31 +175,31 @@ export function SettingsModal({
       </div>
 
       {/* Backup & Restore */}
-      <div className="bg-white rounded-3xl p-5 border border-zinc-200/80 shadow-xs space-y-4">
+      <div className="bg-zinc-900/90 rounded-3xl p-5 border border-zinc-800 shadow-sm space-y-4">
         <div className="flex items-center space-x-2">
-          <div className="w-8 h-8 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center">
+          <div className="w-8 h-8 rounded-xl bg-emerald-950/80 border border-emerald-800/60 text-emerald-400 flex items-center justify-center">
             <Download className="w-4 h-4" />
           </div>
           <div>
-            <h3 className="text-sm font-bold text-zinc-900 tracking-tight">Sao Lưu & Khôi Phục</h3>
-            <p className="text-xs text-zinc-500">Xuất hoặc nhập kho từ vựng cá nhân</p>
+            <h3 className="text-sm font-bold text-white tracking-tight">Sao Lưu & Khôi Phục</h3>
+            <p className="text-xs text-zinc-400">Xuất hoặc nhập kho từ vựng cá nhân</p>
           </div>
         </div>
 
         <div className="grid grid-cols-2 gap-2.5">
           <button
             onClick={handleExportJSON}
-            className="py-2.5 px-3 bg-zinc-100 hover:bg-zinc-200 active:scale-95 text-zinc-800 font-semibold rounded-xl text-xs flex items-center justify-center space-x-1.5 transition-all"
+            className="py-2.5 px-3 bg-zinc-800 hover:bg-zinc-750 active:scale-95 text-zinc-200 font-semibold rounded-xl text-xs flex items-center justify-center space-x-1.5 transition-all"
           >
-            <Download className="w-4 h-4 text-emerald-600" />
+            <Download className="w-4 h-4 text-emerald-400" />
             <span>Xuất tệp JSON</span>
           </button>
 
           <button
             onClick={() => fileInputRef.current?.click()}
-            className="py-2.5 px-3 bg-zinc-100 hover:bg-zinc-200 active:scale-95 text-zinc-800 font-semibold rounded-xl text-xs flex items-center justify-center space-x-1.5 transition-all"
+            className="py-2.5 px-3 bg-zinc-800 hover:bg-zinc-750 active:scale-95 text-zinc-200 font-semibold rounded-xl text-xs flex items-center justify-center space-x-1.5 transition-all"
           >
-            <Upload className="w-4 h-4 text-blue-600" />
+            <Upload className="w-4 h-4 text-blue-400" />
             <span>Nhập tệp JSON</span>
           </button>
           <input
@@ -212,12 +213,12 @@ export function SettingsModal({
       </div>
 
       {/* Reset Progress */}
-      <div className="bg-white rounded-3xl p-5 border border-red-200/80 shadow-xs space-y-3">
-        <div className="flex items-center space-x-2 text-red-600">
+      <div className="bg-zinc-900/90 rounded-3xl p-5 border border-red-900/50 shadow-sm space-y-3">
+        <div className="flex items-center space-x-2 text-red-400">
           <ShieldAlert className="w-5 h-5" />
           <h3 className="text-sm font-bold tracking-tight">Đặt Lại Tiến Độ Học</h3>
         </div>
-        <p className="text-xs text-zinc-600 leading-relaxed">
+        <p className="text-xs text-zinc-400 leading-relaxed">
           Xóa toàn bộ trạng thái "Đã thuộc", "Đánh dấu sao" và lịch sử làm sai của các từ để học lại từ đầu. Kho từ vựng của bạn vẫn được giữ nguyên.
         </p>
 
@@ -230,7 +231,7 @@ export function SettingsModal({
               alert("Đã đặt lại toàn bộ tiến độ thành công!");
             }
           }}
-          className="w-full py-2.5 bg-red-50 hover:bg-red-100 text-red-700 font-bold rounded-xl text-xs flex items-center justify-center space-x-1.5 border border-red-200 transition-all active:scale-95"
+          className="w-full py-2.5 bg-red-950/60 hover:bg-red-900/60 text-red-300 font-bold rounded-xl text-xs flex items-center justify-center space-x-1.5 border border-red-800/60 transition-all active:scale-95"
         >
           <RotateCcw className="w-3.5 h-3.5" />
           <span>Đặt lại tiến độ học tập</span>
@@ -238,10 +239,11 @@ export function SettingsModal({
       </div>
 
       {/* App Info Footer */}
-      <div className="text-center pt-2 text-xs text-zinc-400 space-y-1">
-        <p className="font-semibold text-zinc-500">Vocab Trainer iOS v1.0.0</p>
+      <div className="text-center pt-2 text-xs text-zinc-500 space-y-1">
+        <p className="font-semibold text-zinc-400">Vocab Trainer iOS v1.0.0 (Giao diện Tối Mặc Định)</p>
         <p>Tương thích chuẩn iOS Human Interface Guidelines &amp; SwiftUI</p>
       </div>
     </div>
   );
 }
+

@@ -15,7 +15,7 @@ export interface AppSettings {
 
 export const DEFAULT_SETTINGS: AppSettings = {
   speechRate: 1.0,
-  timeLimitSec: 6.0,
+  timeLimitSec: 10.0,
   isTimerEnabled: true,
   isAutoAdvanceEnabled: true,
   soundEffectsEnabled: true,

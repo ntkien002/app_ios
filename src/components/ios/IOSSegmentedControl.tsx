@@ -25,7 +25,7 @@ export function IOSSegmentedControl<T extends string>({
 }: IOSSegmentedControlProps<T>) {
   return (
     <div
-      className={`relative flex items-center p-1 bg-zinc-200/80 rounded-xl select-none ${className}`}
+      className={`relative flex items-center p-1 bg-zinc-800/90 border border-zinc-700/60 rounded-xl select-none ${className}`}
     >
       {options.map((opt) => {
         const isSelected = opt.value === value;
@@ -44,8 +44,8 @@ export function IOSSegmentedControl<T extends string>({
               size === "sm" ? "py-1 text-xs" : "py-1.5 text-[13px]"
             } ${
               isSelected
-                ? "bg-white text-zinc-900 shadow-sm font-semibold"
-                : "text-zinc-600 hover:text-zinc-900"
+                ? "bg-zinc-700 text-white shadow-sm font-semibold border border-zinc-600/50"
+                : "text-zinc-400 hover:text-zinc-200"
             }`}
           >
             {opt.icon && <span className="inline-flex">{opt.icon}</span>}
@@ -53,7 +53,7 @@ export function IOSSegmentedControl<T extends string>({
             {typeof opt.count === "number" && (
               <span
                 className={`text-[11px] px-1.5 py-0.2 rounded-full ${
-                  isSelected ? "bg-zinc-100 text-zinc-800" : "bg-zinc-300/60 text-zinc-600"
+                  isSelected ? "bg-zinc-800 text-zinc-200" : "bg-zinc-700/60 text-zinc-400"
                 }`}
               >
                 {opt.count}

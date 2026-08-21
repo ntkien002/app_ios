@@ -19,7 +19,7 @@ export function IOSNavigationBar({
   rightActions,
 }: IOSNavigationBarProps) {
   return (
-    <div className="sticky top-0 z-40 bg-zinc-50/85 backdrop-blur-md border-b border-zinc-200/70 transition-all">
+    <div className="sticky top-0 z-40 bg-zinc-950/85 backdrop-blur-md border-b border-zinc-800/80 transition-all">
       <div className="flex items-center justify-between px-4 h-12">
         {/* Left Back / Cancel button */}
         <div className="w-1/4 flex items-center">
@@ -27,7 +27,7 @@ export function IOSNavigationBar({
             <button
               id="ios-nav-back-button"
               onClick={onBack}
-              className="flex items-center text-blue-600 active:opacity-60 transition-opacity font-medium -ml-1 text-[17px]"
+              className="flex items-center text-blue-400 active:opacity-60 transition-opacity font-medium -ml-1 text-[17px]"
             >
               <ChevronLeft className="w-6 h-6 stroke-[2.5]" />
               <span className="leading-none">{backTitle}</span>
@@ -39,11 +39,11 @@ export function IOSNavigationBar({
         <div className="w-2/4 text-center">
           {!largeTitle && (
             <div>
-              <h1 className="text-[17px] font-semibold text-zinc-900 tracking-tight truncate">
+              <h1 className="text-[17px] font-semibold text-white tracking-tight truncate">
                 {title}
               </h1>
               {subtitle && (
-                <p className="text-[11px] text-zinc-500 font-medium -mt-0.5 truncate">{subtitle}</p>
+                <p className="text-[11px] text-zinc-400 font-medium -mt-0.5 truncate">{subtitle}</p>
               )}
             </div>
           )}
@@ -58,9 +58,9 @@ export function IOSNavigationBar({
       {/* Large Title Area */}
       {largeTitle && (
         <div className="px-5 pt-1 pb-3">
-          <h1 className="text-2xl font-bold tracking-tight text-zinc-950">{title}</h1>
+          <h1 className="text-2xl font-bold tracking-tight text-white">{title}</h1>
           {subtitle && (
-            <p className="text-xs text-zinc-500 font-normal mt-0.5">{subtitle}</p>
+            <p className="text-xs text-zinc-400 font-normal mt-0.5">{subtitle}</p>
           )}
         </div>
       )}

@@ -24,7 +24,7 @@ export function IOSTabBar({ activeTab, onChangeTab, vocabCount }: IOSTabBarProps
   ];
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-40 bg-zinc-50/90 backdrop-blur-xl border-t border-zinc-200/80 pb-safe">
+    <div className="fixed bottom-0 left-0 right-0 z-40 bg-zinc-950/90 backdrop-blur-xl border-t border-zinc-800/80 pb-safe">
       <div className="max-w-md mx-auto flex items-center justify-around px-2 py-1.5 h-16">
         {tabs.map((t) => {
           const isActive = activeTab === t.id;
@@ -38,7 +38,7 @@ export function IOSTabBar({ activeTab, onChangeTab, vocabCount }: IOSTabBarProps
                 onChangeTab(t.id);
               }}
               className={`flex-1 flex flex-col items-center justify-center py-1 transition-colors relative group select-none ${
-                isActive ? "text-blue-600" : "text-zinc-400 hover:text-zinc-600"
+                isActive ? "text-blue-400" : "text-zinc-500 hover:text-zinc-300"
               }`}
             >
               <div className="relative">
@@ -48,14 +48,14 @@ export function IOSTabBar({ activeTab, onChangeTab, vocabCount }: IOSTabBarProps
                   }`}
                 />
                 {t.badge !== undefined && (
-                  <span className="absolute -top-1.5 -right-3 bg-red-500 text-white text-[10px] font-bold px-1.5 py-0.2 rounded-full ring-2 ring-white">
+                  <span className="absolute -top-1.5 -right-3 bg-blue-500 text-white text-[10px] font-bold px-1.5 py-0.2 rounded-full ring-2 ring-zinc-950">
                     {typeof t.badge === "number" && t.badge > 999 ? "999+" : t.badge}
                   </span>
                 )}
               </div>
               <span
                 className={`text-[10px] font-medium tracking-tight mt-0.5 ${
-                  isActive ? "font-semibold text-blue-600" : "text-zinc-500"
+                  isActive ? "font-semibold text-blue-400" : "text-zinc-400"
                 }`}
               >
                 {t.label}
@@ -65,7 +65,7 @@ export function IOSTabBar({ activeTab, onChangeTab, vocabCount }: IOSTabBarProps
         })}
       </div>
       {/* iOS Home Indicator Bar */}
-      <div className="w-32 h-1 bg-zinc-300 rounded-full mx-auto mb-1 opacity-70" />
+      <div className="w-32 h-1 bg-zinc-700 rounded-full mx-auto mb-1 opacity-70" />
     </div>
   );
 }

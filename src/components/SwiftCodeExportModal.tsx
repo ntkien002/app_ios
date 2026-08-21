@@ -529,7 +529,7 @@ final class SpeechSynthesizerHelper: NSObject, AVSpeechSynthesizerDelegate {
       </div>
 
       {/* File Selector Tabs */}
-      <div className="bg-white rounded-3xl p-3 border border-zinc-200/80 shadow-xs">
+      <div className="bg-zinc-900/90 rounded-3xl p-3 border border-zinc-800 shadow-sm">
         <div className="flex items-center space-x-1.5 overflow-x-auto pb-1 no-scrollbar">
           {(["App", "Model", "ViewModel", "Views", "TTS"] as const).map((tab) => (
             <button
@@ -540,8 +540,8 @@ final class SpeechSynthesizerHelper: NSObject, AVSpeechSynthesizerDelegate {
               }}
               className={`px-3 py-2 rounded-xl text-xs font-mono font-bold flex items-center space-x-1.5 transition-all flex-shrink-0 ${
                 activeFile === tab
-                  ? "bg-blue-600 text-white shadow-xs"
-                  : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200"
+                  ? "bg-blue-600 text-white shadow-sm"
+                  : "bg-zinc-800 text-zinc-300 hover:bg-zinc-700"
               }`}
             >
               <FileCode className="w-3.5 h-3.5" />

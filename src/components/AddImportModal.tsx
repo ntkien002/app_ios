@@ -46,26 +46,26 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
   };
 
   return (
-    <div className="fixed inset-0 z-50 bg-black/40 backdrop-blur-sm flex items-end sm:items-center justify-center p-0 sm:p-4 animate-in fade-in duration-150">
+    <div className="fixed inset-0 z-50 bg-black/70 backdrop-blur-sm flex items-end sm:items-center justify-center p-0 sm:p-4 animate-in fade-in duration-150">
       <div
         id="add-import-modal"
-        className="bg-white w-full max-w-md rounded-t-3xl sm:rounded-3xl shadow-2xl overflow-hidden border border-zinc-200/80 animate-in slide-in-from-bottom duration-200 flex flex-col max-h-[90vh]"
+        className="bg-zinc-900 w-full max-w-md rounded-t-3xl sm:rounded-3xl shadow-2xl overflow-hidden border border-zinc-800 animate-in slide-in-from-bottom duration-200 flex flex-col max-h-[90vh]"
       >
         {/* iOS Drag Handle on Mobile */}
-        <div className="w-10 h-1 bg-zinc-300 rounded-full mx-auto mt-2.5 sm:hidden" />
+        <div className="w-10 h-1 bg-zinc-700 rounded-full mx-auto mt-2.5 sm:hidden" />
 
         {/* Modal Header */}
-        <div className="px-5 py-4 flex items-center justify-between border-b border-zinc-100">
+        <div className="px-5 py-4 flex items-center justify-between border-b border-zinc-800">
           <div>
-            <h2 className="text-lg font-bold text-zinc-900 tracking-tight">Thêm Từ Vựng</h2>
-            <p className="text-xs text-zinc-500">Mở rộng kho từ vựng cá nhân của bạn</p>
+            <h2 className="text-lg font-bold text-white tracking-tight">Thêm Từ Vựng</h2>
+            <p className="text-xs text-zinc-400">Mở rộng kho từ vựng cá nhân của bạn</p>
           </div>
           <button
             onClick={() => {
               soundFx.playTap();
               onDismiss();
             }}
-            className="w-8 h-8 rounded-full bg-zinc-100 text-zinc-500 hover:text-zinc-800 flex items-center justify-center transition-colors"
+            className="w-8 h-8 rounded-full bg-zinc-800 text-zinc-400 hover:text-white flex items-center justify-center transition-colors"
           >
             <X className="w-5 h-5" />
           </button>
@@ -92,8 +92,8 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
           {activeTab === "single" ? (
             <form onSubmit={handleSingleSubmit} className="space-y-3.5">
               <div>
-                <label className="block text-xs font-semibold text-zinc-700 uppercase tracking-wider mb-1">
-                  Từ tiếng Anh <span className="text-red-500">*</span>
+                <label className="block text-xs font-semibold text-zinc-300 uppercase tracking-wider mb-1">
+                  Từ tiếng Anh <span className="text-red-400">*</span>
                 </label>
                 <input
                   id="input-single-word"
@@ -102,13 +102,13 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
                   value={word}
                   onChange={(e) => setWord(e.target.value)}
                   placeholder="Ví dụ: persistent, versatile..."
-                  className="w-full px-3.5 py-2.5 bg-zinc-50 border border-zinc-200 rounded-xl text-sm font-medium focus:bg-white focus:border-blue-500 focus:ring-2 focus:ring-blue-100 outline-none transition-all"
+                  className="w-full px-3.5 py-2.5 bg-zinc-950 border border-zinc-800 rounded-xl text-sm font-medium text-white placeholder:text-zinc-600 focus:bg-zinc-900 focus:border-blue-500 outline-none transition-all"
                 />
               </div>
 
               <div>
-                <label className="block text-xs font-semibold text-zinc-700 uppercase tracking-wider mb-1">
-                  Nghĩa tiếng Việt <span className="text-red-500">*</span>
+                <label className="block text-xs font-semibold text-zinc-300 uppercase tracking-wider mb-1">
+                  Nghĩa tiếng Việt <span className="text-red-400">*</span>
                 </label>
                 <input
                   id="input-single-translation"
@@ -117,12 +117,12 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
                   value={translation}
                   onChange={(e) => setTranslation(e.target.value)}
                   placeholder="Ví dụ: kiên trì, linh hoạt..."
-                  className="w-full px-3.5 py-2.5 bg-zinc-50 border border-zinc-200 rounded-xl text-sm font-medium focus:bg-white focus:border-blue-500 focus:ring-2 focus:ring-blue-100 outline-none transition-all"
+                  className="w-full px-3.5 py-2.5 bg-zinc-950 border border-zinc-800 rounded-xl text-sm font-medium text-white placeholder:text-zinc-600 focus:bg-zinc-900 focus:border-blue-500 outline-none transition-all"
                 />
               </div>
 
               <div>
-                <label className="block text-xs font-semibold text-zinc-500 uppercase tracking-wider mb-1">
+                <label className="block text-xs font-semibold text-zinc-400 uppercase tracking-wider mb-1">
                   Phiên âm IPA (tùy chọn)
                 </label>
                 <input
@@ -131,13 +131,13 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
                   value={ipa}
                   onChange={(e) => setIpa(e.target.value)}
                   placeholder="Ví dụ: /pəˈsɪs.tənt/"
-                  className="w-full px-3.5 py-2.5 bg-zinc-50 border border-zinc-200 rounded-xl text-sm font-mono focus:bg-white focus:border-blue-500 focus:ring-2 focus:ring-blue-100 outline-none transition-all"
+                  className="w-full px-3.5 py-2.5 bg-zinc-950 border border-zinc-800 rounded-xl text-sm font-mono text-blue-400 placeholder:text-zinc-600 focus:bg-zinc-900 focus:border-blue-500 outline-none transition-all"
                 />
               </div>
 
               {singleSuccessMsg && (
-                <div className="p-3 bg-emerald-50 text-emerald-800 rounded-xl text-xs font-medium flex items-center space-x-2 border border-emerald-200">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
+                <div className="p-3 bg-emerald-950/60 text-emerald-300 rounded-xl text-xs font-medium flex items-center space-x-2 border border-emerald-800/60">
+                  <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
                   <span>{singleSuccessMsg}</span>
                 </div>
               )}
@@ -146,7 +146,7 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
                 id="btn-save-single-word"
                 type="submit"
                 disabled={!word.trim() || !translation.trim()}
-                className="w-full mt-2 py-3 bg-blue-600 hover:bg-blue-700 active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none text-white font-semibold rounded-xl text-sm transition-all shadow-sm flex items-center justify-center space-x-2"
+                className="w-full mt-2 py-3 bg-blue-600 hover:bg-blue-500 active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none text-white font-semibold rounded-xl text-sm transition-all shadow-md flex items-center justify-center space-x-2"
               >
                 <Plus className="w-4 h-4" />
                 <span>Lưu Vào Kho Từ</span>
@@ -155,16 +155,16 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
           ) : (
             <form onSubmit={handleBulkSubmit} className="space-y-3">
               {/* Syntax instructions */}
-              <div className="p-3.5 bg-blue-50/70 border border-blue-200/80 rounded-xl text-xs text-blue-900 space-y-1.5">
+              <div className="p-3.5 bg-blue-950/40 border border-blue-800/50 rounded-xl text-xs text-blue-300 space-y-1.5">
                 <div className="font-semibold flex items-center space-x-1.5">
-                  <FileText className="w-4 h-4 text-blue-600" />
+                  <FileText className="w-4 h-4 text-blue-400" />
                   <span>Định dạng hỗ trợ (mỗi dòng một từ):</span>
                 </div>
-                <ul className="space-y-0.5 text-[11px] font-mono text-zinc-700 pl-1">
-                  <li>• <span className="text-blue-700">từ = nghĩa = /phiên âm/</span></li>
-                  <li>• <span className="text-blue-700">từ = nghĩa</span></li>
-                  <li>• <span className="text-blue-700">từ : nghĩa</span></li>
-                  <li>• <span className="text-blue-700">từ [tab] nghĩa</span></li>
+                <ul className="space-y-0.5 text-[11px] font-mono text-zinc-400 pl-1">
+                  <li>• <span className="text-blue-400">từ = nghĩa = /phiên âm/</span></li>
+                  <li>• <span className="text-blue-400">từ = nghĩa</span></li>
+                  <li>• <span className="text-blue-400">từ : nghĩa</span></li>
+                  <li>• <span className="text-blue-400">từ [tab] nghĩa</span></li>
                 </ul>
               </div>
 
@@ -176,13 +176,13 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
                   value={bulkText}
                   onChange={(e) => setBulkText(e.target.value)}
                   placeholder={`abandon = từ bỏ = /əˈbæn.dən/\nabsolute = tuyệt đối = /ˈæb.sə.luːt/\naccelerate = tăng tốc = /əkˈsel.ə.reɪt/`}
-                  className="w-full p-3 bg-zinc-50 border border-zinc-200 rounded-xl text-xs font-mono focus:bg-white focus:border-blue-500 focus:ring-2 focus:ring-blue-100 outline-none transition-all resize-none"
+                  className="w-full p-3 bg-zinc-950 border border-zinc-800 rounded-xl text-xs font-mono text-white placeholder:text-zinc-600 focus:bg-zinc-900 focus:border-blue-500 outline-none transition-all resize-none"
                 />
               </div>
 
               {bulkResultMsg && (
-                <div className="p-3 bg-emerald-50 text-emerald-800 rounded-xl text-xs font-medium flex items-center space-x-2 border border-emerald-200">
-                  <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0" />
+                <div className="p-3 bg-emerald-950/60 text-emerald-300 rounded-xl text-xs font-medium flex items-center space-x-2 border border-emerald-800/60">
+                  <CheckCircle2 className="w-4 h-4 text-emerald-400 flex-shrink-0" />
                   <span>{bulkResultMsg}</span>
                 </div>
               )}
@@ -191,7 +191,7 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
                 id="btn-save-bulk-words"
                 type="submit"
                 disabled={!bulkText.trim()}
-                className="w-full py-3 bg-emerald-600 hover:bg-emerald-700 active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none text-white font-semibold rounded-xl text-sm transition-all shadow-sm flex items-center justify-center space-x-2"
+                className="w-full py-3 bg-emerald-600 hover:bg-emerald-500 active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none text-white font-semibold rounded-xl text-sm transition-all shadow-md flex items-center justify-center space-x-2"
               >
                 <Upload className="w-4 h-4" />
                 <span>Nhập Dữ Liệu Hàng Loạt</span>
@@ -203,3 +203,4 @@ export function AddImportModal({ onDismiss, onAddWord, onBulkImport }: AddImport
     </div>
   );
 }
+

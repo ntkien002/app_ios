@@ -81,36 +81,36 @@ export function QuizScreen({
       : 0;
 
     return (
-      <div id="quiz-result-view" className="min-h-screen bg-zinc-100 flex flex-col items-center justify-center p-4">
-        <div className="bg-white max-w-sm w-full rounded-3xl p-6 shadow-xl border border-zinc-200/80 text-center animate-in zoom-in-95 duration-200">
+      <div id="quiz-result-view" className="min-h-screen bg-zinc-950 flex flex-col items-center justify-center p-4">
+        <div className="bg-zinc-900 max-w-sm w-full rounded-3xl p-6 shadow-2xl border border-zinc-800 text-center animate-in zoom-in-95 duration-200">
           {state.hearts > 0 ? (
-            <div className="w-16 h-16 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center mx-auto mb-4">
+            <div className="w-16 h-16 rounded-full bg-emerald-950/80 border border-emerald-700/60 text-emerald-400 flex items-center justify-center mx-auto mb-4">
               <Award className="w-9 h-9" />
             </div>
           ) : (
-            <div className="w-16 h-16 rounded-full bg-red-100 text-red-600 flex items-center justify-center mx-auto mb-4">
+            <div className="w-16 h-16 rounded-full bg-red-950/80 border border-red-700/60 text-red-400 flex items-center justify-center mx-auto mb-4">
               <AlertTriangle className="w-9 h-9" />
             </div>
           )}
 
-          <h2 className="text-xl font-bold text-zinc-900 tracking-tight">
+          <h2 className="text-xl font-bold text-white tracking-tight">
             {state.hearts > 0 ? "Hoàn Thành Xuất Sắc!" : "Hết Lượt Trái Tim!"}
           </h2>
-          <p className="text-xs text-zinc-500 mt-1">{state.title}</p>
+          <p className="text-xs text-zinc-400 mt-1">{state.title}</p>
 
           {/* Stats Badges */}
           <div className="grid grid-cols-3 gap-2.5 my-5">
-            <div className="bg-emerald-50 p-3 rounded-2xl border border-emerald-100">
-              <div className="text-[11px] font-semibold text-emerald-700 uppercase">Đúng</div>
-              <div className="text-xl font-bold text-emerald-700 font-mono mt-0.5">{state.correctCount}</div>
+            <div className="bg-emerald-950/40 p-3 rounded-2xl border border-emerald-800/60">
+              <div className="text-[11px] font-semibold text-emerald-400 uppercase">Đúng</div>
+              <div className="text-xl font-bold text-emerald-300 font-mono mt-0.5">{state.correctCount}</div>
             </div>
-            <div className="bg-red-50 p-3 rounded-2xl border border-red-100">
-              <div className="text-[11px] font-semibold text-red-700 uppercase">Sai</div>
-              <div className="text-xl font-bold text-red-700 font-mono mt-0.5">{state.wrongTotalCount}</div>
+            <div className="bg-red-950/40 p-3 rounded-2xl border border-red-800/60">
+              <div className="text-[11px] font-semibold text-red-400 uppercase">Sai</div>
+              <div className="text-xl font-bold text-red-300 font-mono mt-0.5">{state.wrongTotalCount}</div>
             </div>
-            <div className="bg-blue-50 p-3 rounded-2xl border border-blue-100">
-              <div className="text-[11px] font-semibold text-blue-700 uppercase">Độ chính xác</div>
-              <div className="text-xl font-bold text-blue-700 font-mono mt-0.5">{accuracy}%</div>
+            <div className="bg-blue-950/40 p-3 rounded-2xl border border-blue-800/60">
+              <div className="text-[11px] font-semibold text-blue-400 uppercase">Độ chính xác</div>
+              <div className="text-xl font-bold text-blue-300 font-mono mt-0.5">{accuracy}%</div>
             </div>
           </div>
 
@@ -118,7 +118,7 @@ export function QuizScreen({
             <button
               id="btn-quiz-exit-complete"
               onClick={onExit}
-              className="w-full py-3 bg-blue-600 hover:bg-blue-700 active:scale-[0.98] text-white font-semibold rounded-2xl text-sm transition-all shadow-sm"
+              className="w-full py-3 bg-blue-600 hover:bg-blue-500 active:scale-[0.98] text-white font-semibold rounded-2xl text-sm transition-all shadow-md"
             >
               Quay Về Trang Chủ
             </button>
@@ -131,12 +131,12 @@ export function QuizScreen({
   const question = state.currentQuestion;
   if (!question) {
     return (
-      <div className="min-h-screen bg-zinc-100 flex items-center justify-center p-4">
+      <div className="min-h-screen bg-zinc-950 flex items-center justify-center p-4">
         <div className="text-center space-y-3">
-          <p className="text-sm text-zinc-500 font-medium">Đang tải câu hỏi...</p>
+          <p className="text-sm text-zinc-400 font-medium">Đang tải câu hỏi...</p>
           <button
             onClick={onExit}
-            className="px-4 py-2 bg-zinc-200 text-zinc-800 rounded-xl text-xs font-semibold"
+            className="px-4 py-2 bg-zinc-800 text-zinc-200 rounded-xl text-xs font-semibold hover:bg-zinc-700"
           >
             Quay lại
           </button>
@@ -148,9 +148,9 @@ export function QuizScreen({
   const entity = question.currentEntity;
 
   return (
-    <div id="quiz-screen" className="min-h-screen bg-zinc-100 flex flex-col pb-12 select-none">
+    <div id="quiz-screen" className="min-h-screen bg-zinc-950 flex flex-col pb-12 select-none">
       {/* Top Bar (Lives, Timer, Bookmark, Pause, Exit) */}
-      <div className="bg-white/90 backdrop-blur-md border-b border-zinc-200/80 sticky top-0 z-30 px-4 py-2.5">
+      <div className="bg-zinc-900/90 backdrop-blur-md border-b border-zinc-800 sticky top-0 z-30 px-4 py-2.5">
         <div className="max-w-md mx-auto flex items-center justify-between">
           {/* Hearts / Lives */}
           <div className="flex items-center space-x-1">
@@ -162,7 +162,7 @@ export function QuizScreen({
                   className={`w-5 h-5 transition-all ${
                     isAlive
                       ? "text-red-500 fill-red-500 scale-100"
-                      : "text-zinc-300 fill-transparent scale-90"
+                      : "text-zinc-700 fill-transparent scale-90"
                   }`}
                 />
               );
@@ -171,7 +171,7 @@ export function QuizScreen({
 
           {/* Progress / Remaining Count */}
           <div className="text-center">
-            <span className="text-xs font-bold text-zinc-800 font-mono tracking-tight">
+            <span className="text-xs font-bold text-zinc-300 font-mono tracking-tight">
               Còn lại: {state.remainingCount} / {state.totalCount}
             </span>
           </div>
@@ -186,12 +186,12 @@ export function QuizScreen({
               }}
               className={`p-2 rounded-xl transition-colors ${
                 entity.isBookmarked
-                  ? "text-amber-500 bg-amber-50"
-                  : "text-zinc-400 hover:text-zinc-700 bg-zinc-100"
+                  ? "text-amber-400 bg-amber-950/60 border border-amber-800/60"
+                  : "text-zinc-400 hover:text-zinc-200 bg-zinc-800"
               }`}
               title="Đánh dấu từ này"
             >
-              <Star className={`w-4 h-4 ${entity.isBookmarked ? "fill-amber-500" : ""}`} />
+              <Star className={`w-4 h-4 ${entity.isBookmarked ? "fill-amber-400" : ""}`} />
             </button>
 
             <button
@@ -200,7 +200,7 @@ export function QuizScreen({
                 soundFx.playTap();
                 onTogglePause();
               }}
-              className="p-2 rounded-xl text-zinc-600 hover:text-zinc-900 bg-zinc-100 transition-colors"
+              className="p-2 rounded-xl text-zinc-300 hover:text-white bg-zinc-800 transition-colors"
               title={state.isPaused ? "Tiếp tục" : "Tạm dừng"}
             >
               {state.isPaused ? <Play className="w-4 h-4" /> : <Pause className="w-4 h-4" />}
@@ -212,7 +212,7 @@ export function QuizScreen({
                 soundFx.playTap();
                 onExit();
               }}
-              className="p-2 rounded-xl text-zinc-500 hover:text-red-600 bg-zinc-100 transition-colors"
+              className="p-2 rounded-xl text-zinc-400 hover:text-red-400 bg-zinc-800 transition-colors"
               title="Thoát bài luyện"
             >
               <X className="w-4 h-4" />
@@ -222,7 +222,7 @@ export function QuizScreen({
 
         {/* Countdown Timer Progress Bar */}
         {state.isTimerEnabled && !state.isPaused && (
-          <div className="w-full h-1.5 bg-zinc-200 rounded-full mt-2 overflow-hidden">
+          <div className="w-full h-1.5 bg-zinc-800 rounded-full mt-2 overflow-hidden">
             <div
               className={`h-full transition-all duration-100 ${
                 state.currentTimerProgress > 0.4
@@ -241,30 +241,30 @@ export function QuizScreen({
       <div className="flex-1 max-w-md w-full mx-auto px-4 pt-4 pb-6 space-y-4">
         {/* Pause Banner */}
         {state.isPaused && (
-          <div className="bg-amber-50 border border-amber-200 rounded-2xl p-3 text-center text-xs text-amber-800 font-medium">
+          <div className="bg-amber-950/60 border border-amber-800/60 rounded-2xl p-3 text-center text-xs text-amber-300 font-medium">
             Bài luyện đang tạm dừng. Bấm nút Play để tiếp tục.
           </div>
         )}
 
         {/* Question Card */}
-        <div className="bg-white rounded-3xl p-6 shadow-sm border border-zinc-200/80 relative overflow-hidden">
+        <div className="bg-zinc-900/90 rounded-3xl p-6 shadow-md border border-zinc-800 relative overflow-hidden">
           {/* Subtle Background Accent */}
-          <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50/50 rounded-full -mr-10 -mt-10 blur-xl pointer-events-none" />
+          <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500/10 rounded-full -mr-10 -mt-10 blur-xl pointer-events-none" />
 
           <div className="text-center space-y-2 relative z-10">
-            <div className="text-[11px] font-bold text-blue-600 uppercase tracking-wider">
+            <div className="text-[11px] font-bold text-blue-400 uppercase tracking-wider">
               {question.displaySubPrompt}
             </div>
 
             {/* Prompt Word / Meaning */}
-            <div className="text-2xl sm:text-3xl font-extrabold text-zinc-950 tracking-tight flex items-center justify-center space-x-2 py-1">
+            <div className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight flex items-center justify-center space-x-2 py-1">
               <span className="break-words">{question.displayPrompt}</span>
               {/* Pronounce Button */}
               {question.isReverse && (
                 <button
                   id="btn-quiz-pronounce-prompt"
                   onClick={() => onPronounce(entity.word)}
-                  className="w-8 h-8 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center hover:bg-blue-100 active:scale-95 transition-all flex-shrink-0"
+                  className="w-8 h-8 rounded-full bg-blue-950/80 border border-blue-800/60 text-blue-400 flex items-center justify-center hover:bg-blue-900 active:scale-95 transition-all flex-shrink-0"
                   title="Nghe phát âm"
                 >
                   <Volume2 className="w-4 h-4" />
@@ -275,12 +275,12 @@ export function QuizScreen({
             {/* Word metadata badges */}
             <div className="flex items-center justify-center space-x-2 pt-1">
               {entity.wrongCount > 0 && (
-                <span className="text-[10px] font-semibold text-red-600 bg-red-50 px-2 py-0.5 rounded-full border border-red-100">
+                <span className="text-[10px] font-semibold text-red-400 bg-red-950/60 px-2 py-0.5 rounded-full border border-red-800/60">
                   Đã sai {entity.wrongCount} lần
                 </span>
               )}
               {entity.learned && (
-                <span className="text-[10px] font-semibold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-full border border-emerald-100">
+                <span className="text-[10px] font-semibold text-emerald-400 bg-emerald-950/60 px-2 py-0.5 rounded-full border border-emerald-800/60">
                   ✓ Đã thuộc
                 </span>
               )}
@@ -300,15 +300,15 @@ export function QuizScreen({
               ? optionText.substring(optionText.indexOf(" = ") + 3).trim()
               : optionText.trim();
 
-            let btnStyle = "bg-white text-zinc-900 border-zinc-200/80 hover:border-zinc-300";
+            let btnStyle = "bg-zinc-900/90 text-zinc-100 border-zinc-800 hover:border-zinc-700 hover:bg-zinc-850";
 
             if (state.isAnswerRevealed) {
               if (isCorrect) {
-                btnStyle = "bg-emerald-50 border-emerald-500 text-emerald-950 font-bold ring-2 ring-emerald-400";
+                btnStyle = "bg-emerald-950/80 border-emerald-500 text-emerald-200 font-bold ring-2 ring-emerald-500/50";
               } else if (isSelected) {
-                btnStyle = "bg-red-50 border-red-500 text-red-950 font-semibold ring-2 ring-red-400";
+                btnStyle = "bg-red-950/80 border-red-500 text-red-200 font-semibold ring-2 ring-red-500/50";
               } else {
-                btnStyle = "bg-zinc-50 border-zinc-200 text-zinc-400 opacity-60";
+                btnStyle = "bg-zinc-900/40 border-zinc-850 text-zinc-600 opacity-40";
               }
             }
 
@@ -333,7 +333,7 @@ export function QuizScreen({
                         ? "bg-emerald-500 text-white"
                         : state.isAnswerRevealed && isSelected
                         ? "bg-red-500 text-white"
-                        : "bg-zinc-100 text-zinc-700"
+                        : "bg-zinc-800 text-zinc-300"
                     }`}
                   >
                     {optionLetter}
@@ -349,7 +349,7 @@ export function QuizScreen({
                         e.stopPropagation();
                         onPronounce(wordToSpeak);
                       }}
-                      className="p-1.5 rounded-lg text-zinc-400 hover:text-blue-600 hover:bg-zinc-100"
+                      className="p-1.5 rounded-lg text-zinc-400 hover:text-blue-400 hover:bg-zinc-800"
                       title="Nghe từ này"
                     >
                       <Volume2 className="w-4 h-4" />
@@ -357,10 +357,10 @@ export function QuizScreen({
                   )}
 
                   {state.isAnswerRevealed && isCorrect && (
-                    <Check className="w-5 h-5 text-emerald-600 font-bold" />
+                    <Check className="w-5 h-5 text-emerald-400 font-bold" />
                   )}
                   {state.isAnswerRevealed && isSelected && !isCorrect && (
-                    <X className="w-5 h-5 text-red-500 font-bold" />
+                    <X className="w-5 h-5 text-red-400 font-bold" />
                   )}
                 </div>
               </div>
@@ -370,10 +370,10 @@ export function QuizScreen({
 
         {/* Manual Spelling Typing Field (Always available for active spelling practice) */}
         {!state.isAnswerRevealed && !question.isReverse && (
-          <div className="bg-white p-3 rounded-2xl border border-zinc-200/80 shadow-sm space-y-2">
-            <div className="text-[11px] font-semibold text-zinc-500 uppercase tracking-wider flex items-center justify-between">
+          <div className="bg-zinc-900/90 p-3 rounded-2xl border border-zinc-800 shadow-sm space-y-2">
+            <div className="text-[11px] font-semibold text-zinc-400 uppercase tracking-wider flex items-center justify-between">
               <span>Hoặc gõ chính tả tiếng Anh:</span>
-              <span className="text-[10px] text-blue-600 font-normal">Nhấn Enter để nộp</span>
+              <span className="text-[10px] text-blue-400 font-normal">Nhấn Enter để nộp</span>
             </div>
             <div className="flex items-center space-x-2">
               <input
@@ -387,14 +387,14 @@ export function QuizScreen({
                 autoComplete="off"
                 autoCapitalize="none"
                 spellCheck="false"
-                className="flex-1 px-3.5 py-2.5 bg-zinc-50 border border-zinc-200 rounded-xl text-sm font-mono focus:bg-white focus:border-blue-500 focus:ring-2 focus:ring-blue-100 outline-none transition-all"
+                className="flex-1 px-3.5 py-2.5 bg-zinc-950 border border-zinc-800 rounded-xl text-sm font-mono text-white placeholder:text-zinc-600 focus:bg-zinc-900 focus:border-blue-500 outline-none transition-all"
               />
               <button
                 id="btn-quiz-submit-text"
                 type="button"
                 onClick={handleManualSubmit}
                 disabled={!typedInput.trim()}
-                className="px-4 py-2.5 bg-blue-600 hover:bg-blue-700 active:scale-95 disabled:opacity-40 disabled:pointer-events-none text-white font-semibold rounded-xl text-xs flex items-center space-x-1.5 shadow-sm transition-all"
+                className="px-4 py-2.5 bg-blue-600 hover:bg-blue-500 active:scale-95 disabled:opacity-40 disabled:pointer-events-none text-white font-semibold rounded-xl text-xs flex items-center space-x-1.5 shadow-sm transition-all"
               >
                 <span>Gửi</span>
                 <Send className="w-3.5 h-3.5" />
@@ -415,7 +415,7 @@ export function QuizScreen({
                     soundFx.playTap();
                     onRemoveBookmark();
                   }}
-                  className="w-full py-2 bg-amber-50 hover:bg-amber-100 text-amber-800 border border-amber-200 rounded-xl text-xs font-semibold transition-colors"
+                  className="w-full py-2 bg-amber-950/60 hover:bg-amber-900/60 text-amber-300 border border-amber-800/60 rounded-xl text-xs font-semibold transition-colors"
                 >
                   ⭐ Bỏ đánh dấu từ này (Đã thuộc)
                 </button>
@@ -429,8 +429,8 @@ export function QuizScreen({
               }}
               className={`w-full py-3.5 font-bold rounded-2xl text-sm transition-all shadow-md flex items-center justify-center space-x-2 active:scale-[0.98] ${
                 state.isAnswerCorrect
-                  ? "bg-emerald-600 hover:bg-emerald-700 text-white"
-                  : "bg-blue-600 hover:bg-blue-700 text-white"
+                  ? "bg-emerald-600 hover:bg-emerald-500 text-white"
+                  : "bg-blue-600 hover:bg-blue-500 text-white"
               }`}
             >
               <span>
@@ -448,3 +448,4 @@ export function QuizScreen({
     </div>
   );
 }
+

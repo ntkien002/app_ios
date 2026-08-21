@@ -42,10 +42,12 @@ export function VocabularyManager({
   onOpenAddModal,
 }: VocabularyManagerProps) {
   const [filter, setFilter] = useState<FilterType>(
-    (initialFilter as FilterType) || "all"
+    (initialFilter.startsWith("letter_") ? "all" : initialFilter as FilterType) || "all"
   );
   const [searchQuery, setSearchQuery] = useState("");
-  const [letterFilter, setLetterFilter] = useState<string>("ALL");
+  const [letterFilter, setLetterFilter] = useState<string>(
+    initialFilter.startsWith("letter_") ? initialFilter.replace("letter_", "") : "ALL"
+  );
   const [editingId, setEditingId] = useState<string | null>(null);
   const [editWord, setEditWord] = useState("");
   const [editTranslation, setEditTranslation] = useState("");
@@ -102,23 +104,23 @@ export function VocabularyManager({
   return (
     <div id="vocab-manager-view" className="space-y-4 pb-24 select-none">
       {/* Top Search & Actions Bar */}
-      <div className="bg-white rounded-3xl p-4 border border-zinc-200/80 shadow-xs space-y-3">
+      <div className="bg-zinc-900/90 rounded-3xl p-4 border border-zinc-800 shadow-sm space-y-3">
         <div className="flex items-center space-x-2">
           {/* Search Input */}
           <div className="relative flex-1">
-            <Search className="w-4 h-4 text-zinc-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <Search className="w-4 h-4 text-zinc-500 absolute left-3.5 top-1/2 -translate-y-1/2" />
             <input
               id="input-vocab-search"
               type="text"
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Tìm từ tiếng Anh, tiếng Việt, phiên âm..."
-              className="w-full pl-9 pr-8 py-2.5 bg-zinc-100/80 focus:bg-white border border-transparent focus:border-blue-500 rounded-xl text-xs outline-none transition-all"
+              className="w-full pl-9 pr-8 py-2.5 bg-zinc-950 focus:bg-zinc-900 border border-zinc-800 focus:border-blue-500 rounded-xl text-xs text-white placeholder:text-zinc-500 outline-none transition-all"
             />
             {searchQuery && (
               <button
                 onClick={() => setSearchQuery("")}
-                className="absolute right-2.5 top-1/2 -translate-y-1/2 text-zinc-400 hover:text-zinc-600"
+                className="absolute right-2.5 top-1/2 -translate-y-1/2 text-zinc-500 hover:text-zinc-300"
               >
                 <X className="w-3.5 h-3.5" />
               </button>
@@ -132,7 +134,7 @@ export function VocabularyManager({
               soundFx.playTap();
               onOpenAddModal();
             }}
-            className="px-3 py-2.5 bg-blue-600 hover:bg-blue-700 active:scale-95 text-white font-semibold rounded-xl text-xs flex items-center space-x-1 shadow-sm transition-all flex-shrink-0"
+            className="px-3 py-2.5 bg-blue-600 hover:bg-blue-500 active:scale-95 text-white font-semibold rounded-xl text-xs flex items-center space-x-1 shadow-sm transition-all flex-shrink-0"
           >
             <Plus className="w-4 h-4" />
             <span className="hidden sm:inline">Thêm từ</span>
@@ -182,8 +184,8 @@ export function VocabularyManager({
                 }}
                 className={`px-2.5 py-1 rounded-lg text-[11px] font-mono font-bold flex-shrink-0 transition-all ${
                   isSelected
-                    ? "bg-zinc-900 text-white shadow-xs"
-                    : "bg-zinc-100 text-zinc-600 hover:bg-zinc-200"
+                    ? "bg-blue-600 text-white shadow-sm"
+                    : "bg-zinc-800 text-zinc-400 hover:bg-zinc-750 hover:text-zinc-200"
                 }`}
               >
                 {letter}
@@ -195,17 +197,19 @@ export function VocabularyManager({
 
       {/* Vocabulary Item List */}
       <div className="space-y-2">
-        <div className="flex items-center justify-between px-2 text-xs text-zinc-500 font-medium">
-          <span>Tìm thấy {filteredList.length} từ vựng</span>
-          {letterFilter !== "ALL" && <span>Lọc theo chữ cái [{letterFilter}]</span>}
+        <div className="flex items-center justify-between px-2 text-xs text-zinc-400 font-medium">
+          <span>Tìm thấy <strong className="text-white font-mono">{filteredList.length}</strong> từ vựng</span>
+          {letterFilter !== "ALL" && (
+            <span className="text-blue-400">Lọc theo chữ cái [{letterFilter}]</span>
+          )}
         </div>
 
         {filteredList.length === 0 ? (
-          <div className="bg-white rounded-3xl p-10 text-center border border-zinc-200/80 space-y-2">
-            <BookOpen className="w-10 h-10 text-zinc-300 mx-auto" />
-            <p className="text-sm font-semibold text-zinc-700">Không tìm thấy từ vựng nào</p>
-            <p className="text-xs text-zinc-400">
-              Thử thay đổi bộ lọc hoặc thêm từ vựng mới vào kho.
+          <div className="bg-zinc-900/90 rounded-3xl p-10 text-center border border-zinc-800 space-y-2">
+            <BookOpen className="w-10 h-10 text-zinc-600 mx-auto" />
+            <p className="text-sm font-semibold text-zinc-300">Không tìm thấy từ vựng nào</p>
+            <p className="text-xs text-zinc-500">
+              Thử thay đổi bộ lọc hoặc bấm "Thêm từ" để bổ sung vào kho.
             </p>
           </div>
         ) : (
@@ -216,7 +220,7 @@ export function VocabularyManager({
               <div
                 key={item.id}
                 id={`vocab-row-${item.id}`}
-                className="bg-white rounded-2xl p-4 border border-zinc-200/80 shadow-xs space-y-2.5 transition-all hover:border-zinc-300"
+                className="bg-zinc-900/90 rounded-2xl p-4 border border-zinc-800 shadow-sm space-y-2.5 transition-all hover:border-zinc-700"
               >
                 {isEditing ? (
                   /* Edit Mode */
@@ -227,14 +231,14 @@ export function VocabularyManager({
                         value={editWord}
                         onChange={(e) => setEditWord(e.target.value)}
                         placeholder="Từ tiếng Anh"
-                        className="px-2.5 py-1.5 bg-zinc-50 border border-zinc-200 rounded-lg text-xs font-mono font-bold"
+                        className="px-2.5 py-1.5 bg-zinc-950 border border-zinc-700 rounded-lg text-xs font-mono font-bold text-white focus:border-blue-500 outline-none"
                       />
                       <input
                         type="text"
                         value={editIpa}
                         onChange={(e) => setEditIpa(e.target.value)}
                         placeholder="Phiên âm IPA"
-                        className="px-2.5 py-1.5 bg-zinc-50 border border-zinc-200 rounded-lg text-xs font-mono"
+                        className="px-2.5 py-1.5 bg-zinc-950 border border-zinc-700 rounded-lg text-xs font-mono text-blue-400 focus:border-blue-500 outline-none"
                       />
                     </div>
                     <input
@@ -242,21 +246,21 @@ export function VocabularyManager({
                       value={editTranslation}
                       onChange={(e) => setEditTranslation(e.target.value)}
                       placeholder="Nghĩa tiếng Việt"
-                      className="w-full px-2.5 py-1.5 bg-zinc-50 border border-zinc-200 rounded-lg text-xs"
+                      className="w-full px-2.5 py-1.5 bg-zinc-950 border border-zinc-700 rounded-lg text-xs text-white focus:border-blue-500 outline-none"
                     />
                     <div className="flex items-center justify-end space-x-2 pt-1">
                       <button
                         onClick={() => setEditingId(null)}
-                        className="px-3 py-1 bg-zinc-100 text-zinc-600 rounded-lg text-xs font-semibold"
+                        className="px-3 py-1 bg-zinc-800 text-zinc-300 rounded-lg text-xs font-semibold hover:bg-zinc-700"
                       >
                         Hủy
                       </button>
                       <button
                         onClick={() => handleSaveEdit(item)}
-                        className="px-3 py-1 bg-emerald-600 text-white rounded-lg text-xs font-semibold flex items-center space-x-1"
+                        className="px-3 py-1 bg-emerald-600 hover:bg-emerald-500 text-white rounded-lg text-xs font-semibold flex items-center space-x-1"
                       >
                         <Save className="w-3.5 h-3.5" />
-                        <span>Lưu</span>
+                        <span>Lưu Thay Đổi</span>
                       </button>
                     </div>
                   </div>
@@ -265,21 +269,21 @@ export function VocabularyManager({
                   <div className="flex items-start justify-between">
                     <div className="space-y-1 min-w-0 pr-3">
                       <div className="flex items-center space-x-2 flex-wrap">
-                        <span className="font-extrabold text-base text-zinc-900 font-mono tracking-tight">
+                        <span className="font-extrabold text-base text-white font-mono tracking-tight">
                           {item.word}
                         </span>
                         {item.ipa && (
-                          <span className="text-xs text-blue-600 font-mono bg-blue-50/80 px-2 py-0.5 rounded-md">
+                          <span className="text-xs text-blue-400 font-mono bg-blue-950/60 border border-blue-800/40 px-2 py-0.5 rounded-md">
                             {item.ipa}
                           </span>
                         )}
                         {item.wrongCount > 0 && (
-                          <span className="text-[10px] text-red-600 font-bold bg-red-50 px-1.5 py-0.2 rounded border border-red-100">
+                          <span className="text-[10px] text-red-400 font-bold bg-red-950/60 px-1.5 py-0.2 rounded border border-red-800/50">
                             Sai: {item.wrongCount}
                           </span>
                         )}
                       </div>
-                      <p className="text-xs text-zinc-700 font-medium leading-relaxed">
+                      <p className="text-xs text-zinc-300 font-medium leading-relaxed">
                         {item.translation}
                       </p>
                     </div>
@@ -290,7 +294,7 @@ export function VocabularyManager({
                       <button
                         type="button"
                         onClick={() => onPronounce(item.word)}
-                        className="w-8 h-8 rounded-xl bg-blue-50 hover:bg-blue-100 text-blue-600 flex items-center justify-center transition-colors"
+                        className="w-8 h-8 rounded-xl bg-zinc-800 hover:bg-blue-950/60 text-zinc-300 hover:text-blue-400 flex items-center justify-center transition-colors"
                         title="Nghe phát âm"
                       >
                         <Volume2 className="w-4 h-4" />
@@ -305,13 +309,13 @@ export function VocabularyManager({
                         }}
                         className={`w-8 h-8 rounded-xl flex items-center justify-center transition-colors ${
                           item.isBookmarked
-                            ? "bg-amber-50 text-amber-500 hover:bg-amber-100"
-                            : "bg-zinc-100 text-zinc-400 hover:text-zinc-600"
+                            ? "bg-amber-950/60 text-amber-400 border border-amber-800/60 hover:bg-amber-900/60"
+                            : "bg-zinc-800 text-zinc-400 hover:text-zinc-200"
                         }`}
                         title="Đánh dấu sao"
                       >
                         <Star
-                          className={`w-4 h-4 ${item.isBookmarked ? "fill-amber-500" : ""}`}
+                          className={`w-4 h-4 ${item.isBookmarked ? "fill-amber-400" : ""}`}
                         />
                       </button>
 
@@ -324,13 +328,13 @@ export function VocabularyManager({
                         }}
                         className={`w-8 h-8 rounded-xl flex items-center justify-center transition-colors ${
                           item.learned
-                            ? "bg-emerald-50 text-emerald-600 hover:bg-emerald-100"
-                            : "bg-zinc-100 text-zinc-400 hover:text-zinc-600"
+                            ? "bg-emerald-950/60 text-emerald-400 border border-emerald-800/60 hover:bg-emerald-900/60"
+                            : "bg-zinc-800 text-zinc-400 hover:text-zinc-200"
                         }`}
                         title={item.learned ? "Đánh dấu chưa thuộc" : "Đánh dấu đã thuộc"}
                       >
                         <CheckCircle2
-                          className={`w-4 h-4 ${item.learned ? "fill-emerald-100" : ""}`}
+                          className={`w-4 h-4 ${item.learned ? "fill-emerald-400/20" : ""}`}
                         />
                       </button>
 
@@ -338,7 +342,7 @@ export function VocabularyManager({
                       <button
                         type="button"
                         onClick={() => handleStartEdit(item)}
-                        className="w-8 h-8 rounded-xl bg-zinc-100 hover:bg-zinc-200 text-zinc-500 flex items-center justify-center transition-colors"
+                        className="w-8 h-8 rounded-xl bg-zinc-800 hover:bg-zinc-700 text-zinc-300 flex items-center justify-center transition-colors"
                         title="Sửa từ này"
                       >
                         <Edit2 className="w-3.5 h-3.5" />
@@ -353,7 +357,7 @@ export function VocabularyManager({
                             onDelete(item);
                           }
                         }}
-                        className="w-8 h-8 rounded-xl bg-zinc-100 hover:bg-red-50 text-zinc-400 hover:text-red-600 flex items-center justify-center transition-colors"
+                        className="w-8 h-8 rounded-xl bg-zinc-800 hover:bg-red-950/60 text-zinc-400 hover:text-red-400 flex items-center justify-center transition-colors"
                         title="Xóa từ"
                       >
                         <Trash2 className="w-3.5 h-3.5" />
@@ -369,3 +373,4 @@ export function VocabularyManager({
     </div>
   );
 }
+
