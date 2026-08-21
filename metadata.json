@@ -1,0 +1,6 @@
+{
+  "name": "Vocab Trainer iOS",
+  "description": "Smart vocabulary trainer and quiz app ported from Android to iOS with A-Z group filters, flashcards, spelling diagnostics, text-to-speech pronunciation, and multiple study modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

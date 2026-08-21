@@ -1,0 +1,9662 @@
+[
+  {
+    "word": "as",
+    "translation": "Như",
+    "ipa": "/ˈæs/",
+    "learned": true
+  },
+  {
+    "word": "bring",
+    "translation": "mang đến, đem lại",
+    "ipa": "/ˈbɹɪŋ/",
+    "learned": true
+  },
+  {
+    "word": "also",
+    "translation": "cũng",
+    "ipa": "/ˈɔːl.səʊ/",
+    "learned": true
+  },
+  {
+    "word": "better",
+    "translation": "tốt hơn",
+    "ipa": "[ˈbeɾə]",
+    "learned": true
+  },
+  {
+    "word": "more",
+    "translation": "hơn, thêm nữa",
+    "ipa": "/ˈmɔː/",
+    "learned": true
+  },
+  {
+    "word": "should",
+    "translation": "nên",
+    "ipa": "/ʃʊd/",
+    "learned": true
+  },
+  {
+    "word": "near",
+    "translation": "gần bên, cạnh bên",
+    "ipa": "/nɪə(ɹ)/",
+    "learned": true
+  },
+  {
+    "word": "during",
+    "translation": "trong lúc, trong khi",
+    "ipa": "/ˈdjɔː.ɹɪŋ/",
+    "learned": true
+  },
+  {
+    "word": "such",
+    "translation": "như là",
+    "ipa": "/sʌt͡ʃ/",
+    "learned": true
+  },
+  {
+    "word": "instead",
+    "translation": "thay vì",
+    "ipa": "/ɪnˈstɛd/",
+    "learned": true
+  },
+  {
+    "word": "still",
+    "translation": "vẫn",
+    "ipa": "/stɪl/",
+    "learned": true
+  },
+  {
+    "word": "perhaps",
+    "translation": "có lẽ",
+    "ipa": "/pəˈhæps/",
+    "learned": true
+  },
+  {
+    "word": "about",
+    "translation": "Về",
+    "ipa": "/əˈbɛʊt/",
+    "learned": true
+  },
+  {
+    "word": "probably",
+    "translation": "có lẽ",
+    "ipa": "/ˈpɹɒbli/",
+    "learned": true
+  },
+  {
+    "word": "might",
+    "translation": "có thể",
+    "ipa": "/maɪt/",
+    "learned": true
+  },
+  {
+    "word": "therefore",
+    "translation": "Vì vậy",
+    "ipa": "/ˈðɛəfɔː/",
+    "learned": true
+  },
+  {
+    "word": "maybe",
+    "translation": "Có lẽ",
+    "ipa": "/ˈmeɪbi/",
+    "learned": true
+  },
+  {
+    "word": "according",
+    "translation": "theo",
+    "ipa": "/əˈkɔːdɪŋ/",
+    "learned": true
+  },
+  {
+    "word": "belong",
+    "translation": " + to: thuộc về",
+    "ipa": "/bɪˈlɒŋ/",
+    "learned": true
+  },
+  {
+    "word": "almost",
+    "translation": "hầu hết, gần như",
+    "ipa": "/ɔːl.ˈməʊst/",
+    "learned": true
+  },
+  {
+    "word": "become",
+    "translation": "trở thành",
+    "ipa": "/bəˈkʊm/",
+    "learned": true
+  },
+  {
+    "word": "than",
+    "translation": "hơn",
+    "ipa": "/ðæn/",
+    "learned": true
+  },
+  {
+    "word": "then",
+    "translation": "sau đó",
+    "ipa": "/ðen/",
+    "learned": true
+  },
+  {
+    "word": "head",
+    "translation": "cái đầu",
+    "ipa": "/hɛd/",
+    "learned": true
+  },
+  {
+    "word": "mouth",
+    "translation": "miệng",
+    "ipa": "/mʌʊθ/",
+    "learned": true
+  },
+  {
+    "word": "forehead",
+    "translation": "trán",
+    "ipa": "/ˈfɒɹɛd/",
+    "learned": true
+  },
+  {
+    "word": "lip",
+    "translation": "môi",
+    "ipa": "/lɪp/",
+    "learned": true
+  },
+  {
+    "word": "ear",
+    "translation": "tai",
+    "ipa": "/ɪə̯/",
+    "learned": true
+  },
+  {
+    "word": "tongue",
+    "translation": "lưỡi",
+    "ipa": "/tʌŋ/",
+    "learned": true
+  },
+  {
+    "word": "nose",
+    "translation": "mũi",
+    "ipa": "/nəʊz/",
+    "learned": true
+  },
+  {
+    "word": "cheek",
+    "translation": "má",
+    "ipa": "/tʃiːk/",
+    "learned": true
+  },
+  {
+    "word": "chin",
+    "translation": "cái cằm",
+    "ipa": "/tʃɪn/",
+    "learned": true
+  },
+  {
+    "word": "neck",
+    "translation": "cổ",
+    "ipa": "/nɛk/",
+    "learned": true
+  },
+  {
+    "word": "waist",
+    "translation": "thắt lưng, vòng eo",
+    "ipa": "/weɪst/",
+    "learned": true
+  },
+  {
+    "word": "shoulder",
+    "translation": "vai",
+    "ipa": "/ˈʃəʊldə/",
+    "learned": true
+  },
+  {
+    "word": "stomach",
+    "translation": "cái bụng",
+    "ipa": "/ˈstʌmək/",
+    "learned": true
+  },
+  {
+    "word": "back",
+    "translation": "mặt sau",
+    "ipa": "/bæk/",
+    "learned": true
+  },
+  {
+    "word": "arm",
+    "translation": "cánh tay",
+    "ipa": "/ɑːm/",
+    "learned": true
+  },
+  {
+    "word": "palm",
+    "translation": "lòng bàn tay",
+    "ipa": "/ˈpæm/",
+    "learned": true
+  },
+  {
+    "word": "elbow",
+    "translation": "khuỷu tay",
+    "ipa": "/ˈɛl.bəʊ/",
+    "learned": true
+  },
+  {
+    "word": "nail",
+    "translation": "móng tay",
+    "ipa": "/neɪl/",
+    "learned": true
+  },
+  {
+    "word": "hand",
+    "translation": "tay",
+    "ipa": "/hænd/",
+    "learned": true
+  },
+  {
+    "word": "leg",
+    "translation": "chân",
+    "ipa": "/leɪɡ/",
+    "learned": true
+  },
+  {
+    "word": "ankle",
+    "translation": "mắt cá chân",
+    "ipa": "/ˈæŋ.kəl/",
+    "learned": true
+  },
+  {
+    "word": "thigh",
+    "translation": "đùi",
+    "ipa": "/θaɪ/",
+    "learned": true
+  },
+  {
+    "word": "foot",
+    "translation": "chân",
+    "ipa": "[fʊt̚]",
+    "learned": true
+  },
+  {
+    "word": "knee",
+    "translation": "đầu gối",
+    "ipa": "/niː/",
+    "learned": true
+  },
+  {
+    "word": "toe",
+    "translation": "ngón chân",
+    "ipa": "/təʊ/",
+    "learned": true
+  },
+  {
+    "word": "calf",
+    "translation": "bắp chân",
+    "ipa": "/kæf/",
+    "learned": true
+  },
+  {
+    "word": "heel",
+    "translation": "gót chân",
+    "ipa": "/hiːl/",
+    "learned": true
+  },
+  {
+    "word": "heart",
+    "translation": "trái tim",
+    "ipa": "/hɑːt/",
+    "learned": true
+  },
+  {
+    "word": "kidney",
+    "translation": "quả thận",
+    "ipa": "/ˈkɪdni/",
+    "learned": true
+  },
+  {
+    "word": "lung",
+    "translation": "phổi",
+    "ipa": "/ˈlʌŋ/",
+    "learned": true
+  },
+  {
+    "word": "brain",
+    "translation": "não",
+    "ipa": "/bɹeɪn/",
+    "learned": true
+  },
+  {
+    "word": "liver",
+    "translation": "gan",
+    "ipa": "/ˈlɪvə/",
+    "learned": true
+  },
+  {
+    "word": "bone",
+    "translation": "xương",
+    "ipa": "/bəʉn/",
+    "learned": true
+  },
+  {
+    "word": "above",
+    "translation": "bên trên, ở trên",
+    "ipa": "/əˈbʌv/",
+    "learned": true
+  },
+  {
+    "word": "attempt",
+    "translation": "nỗ lực, cố gắng, thử",
+    "ipa": "/əˈtɛmpt/",
+    "learned": true
+  },
+  {
+    "word": "argue",
+    "translation": "tranh cãi, lý lẽ",
+    "ipa": "/ˈɑː.ɡjuː/",
+    "learned": true
+  },
+  {
+    "word": "attract",
+    "translation": "sắp xếp, thu hút",
+    "ipa": "/əˈɹeɪndʒ/",
+    "learned": true
+  },
+  {
+    "word": "avoid",
+    "translation": "tránh xa, lảng tránh",
+    "ipa": "/əˈvɔɪd/",
+    "learned": true
+  },
+  {
+    "word": "attend",
+    "translation": "tham gia, chú ý",
+    "ipa": "/əˈtɛnd/",
+    "learned": true
+  },
+  {
+    "word": "afraid",
+    "translation": "+ of : sợ, e ngại, lo ngại",
+    "ipa": "/əˈfɹeɪd/",
+    "learned": true
+  },
+  {
+    "word": "athlete",
+    "translation": "vận động viên, người chơi thể thao",
+    "ipa": "/ˈæθ.lit/",
+    "learned": true
+  },
+  {
+    "word": "agent",
+    "translation": "đại lý, thực thể",
+    "ipa": "/ˈeɪ.dʒənt/",
+    "learned": true
+  },
+  {
+    "word": "annual",
+    "translation": "hàng năm, định kỳ, từng năm",
+    "ipa": "/ˈæn.ju.əl/",
+    "learned": true
+  },
+  {
+    "word": "awful",
+    "translation": "tồi tệ, kinh khủng",
+    "ipa": "/ˈɔːfəl/",
+    "learned": true
+  },
+  {
+    "word": "amount",
+    "translation": "số lượng, tổng số",
+    "ipa": "/əˈmaʊnt/",
+    "learned": true
+  },
+  {
+    "word": "advice",
+    "translation": "khuyên bảo, lời khuyên",
+    "ipa": "/ədˈvaɪs/",
+    "learned": true
+  },
+  {
+    "word": "article",
+    "translation": "bài báo, điều khoản, mục",
+    "ipa": "/ˈɑːtɪkəl/",
+    "learned": true
+  },
+  {
+    "word": "admit",
+    "translation": "thừa nhận, thú nhận",
+    "ipa": "/ədˈmɪt/",
+    "learned": true
+  },
+  {
+    "word": "achieve",
+    "translation": "đạt được, thành tựu",
+    "ipa": "/əˈtʃiːv/",
+    "learned": true
+  },
+  {
+    "word": "arrange",
+    "translation": "+ for : sắp xếp, thu xếp",
+    "ipa": "/əˈɹeɪndʒ/",
+    "learned": true
+  },
+  {
+    "word": "agency",
+    "translation": "hãng, đại lý, công ty",
+    "ipa": "/ˈeɪ.dʒən.si/",
+    "learned": true
+  },
+  {
+    "word": "assume",
+    "translation": "giả định, đoán chừng",
+    "ipa": "/əˈsuːm/",
+    "learned": true
+  },
+  {
+    "word": "apology",
+    "translation": "lời xin lỗi, sự xin lỗi",
+    "ipa": "/əˈpɒl.ə.dʒi/",
+    "learned": true
+  },
+  {
+    "word": "attitude",
+    "translation": "thái độ, quan điểm",
+    "ipa": "/ˈætɪˌtjuːd/",
+    "learned": true
+  },
+  {
+    "word": "argument",
+    "translation": "cuộc tranh luận, cãi vã",
+    "ipa": "/ˈɑːɡjʊmənt/",
+    "learned": true
+  },
+  {
+    "word": "approach",
+    "translation": "+ to : tiếp cận, phương pháp",
+    "ipa": "/əˈpɹəʊt͡ʃ/",
+    "learned": true
+  },
+  {
+    "word": "audience",
+    "translation": "khán giả, người xem",
+    "ipa": "/ˈɔːdi.əns/",
+    "learned": true
+  },
+  {
+    "word": "affect",
+    "translation": "ảnh hưởng, tác động",
+    "ipa": "/əˈfɛkt/",
+    "learned": true
+  },
+  {
+    "word": "average",
+    "translation": "trung bình, thông thường",
+    "ipa": "/ˈævəɹɪd͡ʒ/",
+    "learned": true
+  },
+  {
+    "word": "ambition",
+    "translation": "tham vọng, hoài bão",
+    "ipa": "/æmˈbɪ.ʃən/",
+    "learned": true
+  },
+  {
+    "word": "adequate",
+    "translation": "Đủ, thích hợp, thỏa đáng",
+    "ipa": "/ˈæd.ə.kwət/",
+    "learned": true
+  },
+  {
+    "word": "apex",
+    "translation": "Đỉnh, chóp",
+    "ipa": "/ˈeɪˌpɛks/",
+    "learned": true
+  },
+  {
+    "word": "appeal",
+    "translation": "Bắt mắt, lôi cuốn, hấp dẫn",
+    "ipa": "/əˈpiːl/",
+    "learned": true
+  },
+  {
+    "word": "approximate",
+    "translation": "gần đúng, xấp xỉ",
+    "ipa": "/əˈprɒk.sɪ.mət/",
+    "learned": true
+  },
+  {
+    "word": "assign",
+    "translation": "Giao phó, phân công",
+    "ipa": "/əˈsaɪn/",
+    "learned": true
+  },
+  {
+    "word": "attachment",
+    "translation": "Tệp đính kèm, gắn bó",
+    "ipa": "/əˈtætʃmənt/",
+    "learned": true
+  },
+  {
+    "word": "adopt",
+    "translation": "nhận nuôi",
+    "ipa": "/əˈdɒpt/",
+    "learned": true
+  },
+  {
+    "word": "antique",
+    "translation": "đồ cổ, cổ xưa",
+    "ipa": "/ænˈtiːk/",
+    "learned": true
+  },
+  {
+    "word": "accumulate",
+    "translation": "tích lũy, gom góp",
+    "ipa": "/əˈkjuːmjʊˌleɪt/",
+    "learned": true
+  },
+  {
+    "word": "absorb",
+    "translation": "hấp thụ, tiếp thu",
+    "ipa": "/əbˈsɔːb/",
+    "learned": true
+  },
+  {
+    "word": "assure",
+    "translation": "đảm bảo, cam đoan",
+    "ipa": "/əˈʃɔː/",
+    "learned": true
+  },
+  {
+    "word": "apart",
+    "translation": "riêng biệt, tách ra",
+    "ipa": "/əˈpɑː(ɹ)t/",
+    "learned": true
+  },
+  {
+    "word": "arise",
+    "translation": "phát sinh, nảy sinh",
+    "ipa": "/əˈɹaɪz/",
+    "learned": true
+  },
+  {
+    "word": "amateur",
+    "translation": "nghiệp dư, không chuyên",
+    "ipa": "/ˈæ.mə.tə/",
+    "learned": true
+  },
+  {
+    "word": "able",
+    "translation": "+ to : có thể, có khả năng",
+    "ipa": "/ˈeɪ.bl̩/",
+    "learned": true
+  },
+  {
+    "word": "agenda",
+    "translation": "chương trình nghị sự",
+    "ipa": "/əˈdʒɛn.də/",
+    "learned": true
+  },
+  {
+    "word": "accurate",
+    "translation": "chính xác, đúng đắn",
+    "ipa": "/ˈæk.jə.ɹət/",
+    "learned": true
+  },
+  {
+    "word": "acquire",
+    "translation": "giành được, thu được",
+    "ipa": "/əˈkwaɪə/",
+    "learned": true
+  },
+  {
+    "word": "adjust",
+    "translation": "điều chỉnh, sửa lại",
+    "ipa": "/əˈdʒʌst/",
+    "learned": true
+  },
+  {
+    "word": "advance",
+    "translation": "nâng cao, tiến bộ",
+    "ipa": "/ədˈvaːns/",
+    "learned": true
+  },
+  {
+    "word": "advertise",
+    "translation": "quảng cáo, thông báo",
+    "ipa": "/ˈadvə(ɹ)taɪz/",
+    "learned": true
+  },
+  {
+    "word": "advantage",
+    "translation": "lợi thế, ưu điểm",
+    "ipa": "/ədˈvɑːn.tɪdʒ/",
+    "learned": true
+  },
+  {
+    "word": "affair",
+    "translation": "chuyện tình, việc làm ăn",
+    "ipa": "/əˈfɛə/",
+    "learned": true
+  },
+  {
+    "word": "afford",
+    "translation": "đủ khả năng, đủ điều kiện",
+    "ipa": "/əˈfɔːd/",
+    "learned": true
+  },
+  {
+    "word": "aid",
+    "translation": "sự giúp đỡ, viện trợ",
+    "ipa": "/eɪd/",
+    "learned": true
+  },
+  {
+    "word": "aisle",
+    "translation": "lối đi, hành lang",
+    "ipa": "/aɪ̯l/",
+    "learned": true
+  },
+  {
+    "word": "allocate",
+    "translation": "phân bổ, chỉ định",
+    "ipa": "/ˈæl.ə.keɪt/",
+    "learned": true
+  },
+  {
+    "word": "allowance",
+    "translation": "trợ cấp, phụ cấp",
+    "ipa": "/əˈlaʊəns/",
+    "learned": true
+  },
+  {
+    "word": "amend",
+    "translation": "sửa đổi, bổ sung",
+    "ipa": "/əˈmɛnd/",
+    "learned": true
+  },
+  {
+    "word": "announce",
+    "translation": "thông báo, tuyên bố",
+    "ipa": "/əˈnaʊns/",
+    "learned": true
+  },
+  {
+    "word": "appliance",
+    "translation": "thiết bị, đồ dùng",
+    "ipa": "/əˈplaɪəns/",
+    "learned": true
+  },
+  {
+    "word": "appoint",
+    "translation": "bổ nhiệm, chỉ định",
+    "ipa": "/əˈpɔɪnt/",
+    "learned": true
+  },
+  {
+    "word": "assemble",
+    "translation": "tập hợp, lắp ráp",
+    "ipa": "/əˈsɛmbl̩/",
+    "learned": true
+  },
+  {
+    "word": "assess",
+    "translation": "đánh giá, định giá",
+    "ipa": "/əˈsɛs/",
+    "learned": true
+  },
+  {
+    "word": "assistant",
+    "translation": "trợ lý, phụ tá",
+    "ipa": "/əˈsɪstənt/",
+    "learned": true
+  },
+  {
+    "word": "associate",
+    "translation": "+ with : liên kết, kết hợp",
+    "ipa": "/əˈsəʊsi.ət/",
+    "learned": true
+  },
+  {
+    "word": "available",
+    "translation": "có sẵn, dùng được",
+    "ipa": "/əˈveɪləb(ə)l/",
+    "learned": true
+  },
+  {
+    "word": "aware",
+    "translation": "+ of : nhận thức, hiểu biết",
+    "ipa": "/əˈweːɹ/",
+    "learned": true
+  },
+  {
+    "word": "ban",
+    "translation": "lệnh cấm, ngăn chặn",
+    "ipa": "/bæn/",
+    "learned": true
+  },
+  {
+    "word": "border",
+    "translation": "ranh giới, biên giới",
+    "ipa": "/ˈbɔədə/",
+    "learned": true
+  },
+  {
+    "word": "base",
+    "translation": "+ on : căn cứ, cơ sở",
+    "ipa": "/beɪs/",
+    "learned": true
+  },
+  {
+    "word": "barely",
+    "translation": "hầu như không, vừa đủ",
+    "ipa": "/ˈbɛə(ɹ).li/",
+    "learned": true
+  },
+  {
+    "word": "bite",
+    "translation": "cắn, ngoạm",
+    "ipa": "/bʌɪt/",
+    "learned": true
+  },
+  {
+    "word": "blind",
+    "translation": "mù, không nhìn thấy",
+    "ipa": "/blaɪnd/",
+    "learned": true
+  },
+  {
+    "word": "blow",
+    "translation": "thổi",
+    "ipa": "/bləʊ/",
+    "learned": true
+  },
+  {
+    "word": "bottom",
+    "translation": "đáy, dưới cùng",
+    "ipa": "/ˈbɒtəm/",
+    "learned": true
+  },
+  {
+    "word": "budget",
+    "translation": "ngân sách, ngân quỹ",
+    "ipa": "/ˈbʌdʒ.ɪt/",
+    "learned": true
+  },
+  {
+    "word": "balance",
+    "translation": "cân bằng, số dư",
+    "ipa": "/ˈbæləns/",
+    "learned": true
+  },
+  {
+    "word": "behavior",
+    "translation": "hành vi, ứng xử",
+    "ipa": "[bɪˈheɪvjə]",
+    "learned": true
+  },
+  {
+    "word": "bargain",
+    "translation": "mặc cả, thương lượng",
+    "ipa": "/-ɡɪn/",
+    "learned": true
+  },
+  {
+    "word": "beverage",
+    "translation": "đồ uống, giải khát",
+    "ipa": "/ˈbevəɹɪdʒ/",
+    "learned": true
+  },
+  {
+    "word": "brief",
+    "translation": "ngắn gọn, súc tích",
+    "ipa": "/bɹiːf/",
+    "learned": true
+  },
+  {
+    "word": "brand",
+    "translation": "thương hiệu, nhãn hiệu",
+    "ipa": "/bɹand/",
+    "learned": true
+  },
+  {
+    "word": "cause",
+    "translation": "gây ra, nguyên nhân",
+    "ipa": "/kɔːz/",
+    "learned": true
+  },
+  {
+    "word": "cheap",
+    "translation": "rẻ, giá thấp",
+    "ipa": "/t͡ʃiːp/",
+    "learned": true
+  },
+  {
+    "word": "crowd",
+    "translation": "đám đông",
+    "ipa": "/kɹaʊd/",
+    "learned": true
+  },
+  {
+    "word": "charge",
+    "translation": "lệ phí, tính phí",
+    "ipa": "/t͡ʃɑːd͡ʒ/",
+    "learned": true
+  },
+  {
+    "word": "custom",
+    "translation": "phong tục, thói quen",
+    "ipa": "/ˈkʌstəm/",
+    "learned": true
+  },
+  {
+    "word": "contain",
+    "translation": "chứa đựng, bao gồm",
+    "ipa": "/kənˈteɪn/",
+    "learned": true
+  },
+  {
+    "word": "compare",
+    "translation": "so sánh, đối chiếu",
+    "ipa": "/kəmˈpɛə/",
+    "learned": true
+  },
+  {
+    "word": "contract",
+    "translation": "hợp đồng, ký kết",
+    "ipa": "/ˈkɒntɹækt/",
+    "learned": true
+  },
+  {
+    "word": "complain",
+    "translation": "phàn nàn, kêu ca",
+    "ipa": "/kəmˈpleɪn/",
+    "learned": true
+  },
+  {
+    "word": "complete",
+    "translation": "hoàn thành, trọn vẹn",
+    "ipa": "/kəmˈpliːt/",
+    "learned": true
+  },
+  {
+    "word": "consider",
+    "translation": "xem xét, cân nhắc",
+    "ipa": "/kənˈsɪdə/",
+    "learned": true
+  },
+  {
+    "word": "challenge",
+    "translation": "thách thức, thử thách",
+    "ipa": "/ˈtʃæl.əndʒ/",
+    "learned": true
+  },
+  {
+    "word": "condition",
+    "translation": "điều kiện, tình trạng",
+    "ipa": "/kənˈdɪʃən/",
+    "learned": true
+  },
+  {
+    "word": "community",
+    "translation": "cộng đồng",
+    "ipa": "/k(ə)ˈmjunəti/",
+    "learned": true
+  },
+  {
+    "word": "confidence",
+    "translation": "sự tự tin, tin tưởng",
+    "ipa": "/ˈkɒnfɪdəns/",
+    "learned": true
+  },
+  {
+    "word": "consumer",
+    "translation": "người tiêu dùng",
+    "ipa": "/kənˈsjuːmə/",
+    "learned": true
+  },
+  {
+    "word": "comfortable",
+    "translation": "thoải mái, tiện nghi",
+    "ipa": "/ˈkʌm.fə.tə.bəl/",
+    "learned": true
+  },
+  {
+    "word": "convenient",
+    "translation": "thuận lợi, tiện lợi",
+    "ipa": "/kənˈviːniənt/",
+    "learned": true
+  },
+  {
+    "word": "concentrate",
+    "translation": "+ on : tập trung",
+    "ipa": "/ˈkɒn.sən.tɹeɪt/",
+    "learned": true
+  },
+  {
+    "word": "conference",
+    "translation": "hội nghị, hội thảo",
+    "ipa": "/ˈkɒn.fə.ɹəns/",
+    "learned": true
+  },
+  {
+    "word": "communication",
+    "translation": "giao tiếp, truyền thông",
+    "ipa": "/kəˌmjuːnɪˈkeɪʃən/",
+    "learned": true
+  },
+  {
+    "word": "campaign",
+    "translation": "chiến dịch, vận động",
+    "ipa": "/kæmˈpeɪn/",
+    "learned": true
+  },
+  {
+    "word": "capacity",
+    "translation": "sức chứa, năng lực",
+    "ipa": "/kəˈpæsɪti/",
+    "learned": true
+  },
+  {
+    "word": "cargo",
+    "translation": "hàng hóa chuyên chở",
+    "ipa": "/ˈkɑːɡəʊ/",
+    "learned": true
+  },
+  {
+    "word": "cautious",
+    "translation": "cẩn thận, thận trọng",
+    "ipa": "/ˈkɔːʃəs/",
+    "learned": true
+  },
+  {
+    "word": "combine",
+    "translation": "kết hợp, phối hợp",
+    "ipa": "/kəmˈbaɪn/",
+    "learned": true
+  },
+  {
+    "word": "commodity",
+    "translation": "hàng hóa, mặt hàng",
+    "ipa": "/kəˈmɒdəti/",
+    "learned": true
+  },
+  {
+    "word": "compile",
+    "translation": "biên soạn, tổng hợp",
+    "ipa": "/kəmpʌɪl/",
+    "learned": true
+  },
+  {
+    "word": "compromise",
+    "translation": "thỏa hiệp, dàn xếp",
+    "ipa": "/ˈkɒmpɹəˌmaɪz/",
+    "learned": true
+  },
+  {
+    "word": "conduct",
+    "translation": "chỉ đạo, điều phối",
+    "ipa": "/ˈkɒndʌkt/",
+    "learned": true
+  },
+  {
+    "word": "confirm",
+    "translation": "xác nhận",
+    "ipa": "/kənˈfɜːm/",
+    "learned": true
+  },
+  {
+    "word": "consequence",
+    "translation": "hậu quả, kết quả",
+    "ipa": "/ˈkɒnsɪkwɛns/",
+    "learned": true
+  },
+  {
+    "word": "consistent",
+    "translation": "+ of : kiên định, nhất quán",
+    "ipa": "/kənˈsɪstənt/",
+    "learned": true
+  },
+  {
+    "word": "constitute",
+    "translation": "cấu thành, tạo thành",
+    "ipa": "/ˈkɒnstɪtjuːt/",
+    "learned": true
+  },
+  {
+    "word": "consult",
+    "translation": "hội ý, tham khảo",
+    "ipa": "/kənˈsʌlt/",
+    "learned": true
+  },
+  {
+    "word": "consume",
+    "translation": "tiêu thụ, tiêu dùng",
+    "ipa": "/kənˈsjuːm/",
+    "learned": true
+  },
+  {
+    "word": "convince",
+    "translation": "thuyết phục",
+    "ipa": "/kənˈvɪns/",
+    "learned": true
+  },
+  {
+    "word": "debate",
+    "translation": "tranh luận",
+    "ipa": "/dɪˈbeɪt/",
+    "learned": true
+  },
+  {
+    "word": "demand",
+    "translation": "+ for : yêu cầu, đòi hỏi",
+    "ipa": "/dɪˈmɑːnd/",
+    "learned": true
+  },
+  {
+    "word": "depend",
+    "translation": "+ on: phụ thuộc",
+    "ipa": "/dɪˈpɛnd/",
+    "learned": true
+  },
+  {
+    "word": "deliver",
+    "translation": "giao hàng, truyền phát",
+    "ipa": "/dɪˈlɪvə(ɹ)/",
+    "learned": true
+  },
+  {
+    "word": "destroy",
+    "translation": "phá hủy, tiêu diệt",
+    "ipa": "/dɪˈstɹɔɪ/",
+    "learned": true
+  },
+  {
+    "word": "discuss",
+    "translation": "thảo luận, bàn bạc",
+    "ipa": "/dɪsˈkʊs/",
+    "learned": true
+  },
+  {
+    "word": "distance",
+    "translation": "khoảng cách, tầm xa",
+    "ipa": "/ˈdɪs.təns/",
+    "learned": true
+  },
+  {
+    "word": "determine",
+    "translation": "xác định, quyết định",
+    "ipa": "/dɪˈtɜːmɪn/",
+    "learned": true
+  },
+  {
+    "word": "destination",
+    "translation": "điểm đến, đích",
+    "ipa": "/dɛstɪˈneɪʃən/",
+    "learned": true
+  },
+  {
+    "word": "dimension",
+    "translation": "kích thước, tầm vóc",
+    "ipa": "/daɪˈmɛnʃən/",
+    "learned": true
+  },
+  {
+    "word": "distinctive",
+    "translation": "đặc biệt, nổi bật",
+    "ipa": "/dɪˈstɪŋktɪv/",
+    "learned": true
+  },
+  {
+    "word": "distribute",
+    "translation": "phân phối, phân phát",
+    "ipa": "/dɨˈstɹɪbjuːt/",
+    "learned": true
+  },
+  {
+    "word": "diverse",
+    "translation": "đa dạng, phong phú",
+    "ipa": "/daɪˈvɜːs/",
+    "learned": true
+  },
+  {
+    "word": "donate",
+    "translation": "tặng, quyên góp",
+    "ipa": "/dəʊˈneɪt/",
+    "learned": true
+  },
+  {
+    "word": "duration",
+    "translation": "khoảng thời gian",
+    "ipa": "/djʊˈɹeɪʃn̩/",
+    "learned": true
+  },
+  {
+    "word": "decisive",
+    "translation": "quyết đoán, dứt khoát",
+    "ipa": "/dɪˈsaɪsɪv/",
+    "learned": true
+  },
+  {
+    "word": "dedicate",
+    "translation": "cống hiến",
+    "ipa": "/ˈdɛdɪkeɪt/",
+    "learned": true
+  },
+  {
+    "word": "diagnose",
+    "translation": "chẩn đoán bệnh",
+    "ipa": "/daɪəɡˈnəʊz/",
+    "learned": true
+  },
+  {
+    "word": "efficient",
+    "translation": "hiệu quả, năng suất",
+    "ipa": "/ɪˈfɪʃənt/",
+    "learned": true
+  },
+  {
+    "word": "eligible",
+    "translation": "+ for: đủ điều kiện",
+    "ipa": "/ˈɛlɪdʒəb(ə)l/",
+    "learned": true
+  },
+  {
+    "word": "emphasize",
+    "translation": "nhấn mạnh",
+    "ipa": "/ˈɛmfəsaɪz/",
+    "learned": true
+  },
+  {
+    "word": "enhance",
+    "translation": "nâng cao, cải thiện",
+    "ipa": "/ɪnˈhɑːns/",
+    "learned": true
+  },
+  {
+    "word": "ensure",
+    "translation": "đảm bảo chắc chắn",
+    "ipa": "/ɪnˈʃɔː/",
+    "learned": true
+  },
+  {
+    "word": "enterprise",
+    "translation": "doanh nghiệp",
+    "ipa": "/ˈɛntɚˌpɹaɪz/",
+    "learned": true
+  },
+  {
+    "word": "essential",
+    "translation": "cần thiết, thiết yếu",
+    "ipa": "/ɪˈsɛn.ʃəl/",
+    "learned": true
+  },
+  {
+    "word": "establish",
+    "translation": "thiết lập, thành lập",
+    "ipa": "/ɪˈstæb.lɪʃ/",
+    "learned": true
+  },
+  {
+    "word": "estimate",
+    "translation": "ước lượng, ước tính",
+    "ipa": "/ˈɛstɨmɨt/",
+    "learned": true
+  },
+  {
+    "word": "evaluate",
+    "translation": "đánh giá",
+    "ipa": "/ɨˈvaljʊeɪt/",
+    "learned": true
+  },
+  {
+    "word": "evidence",
+    "translation": "bằng chứng, chứng cứ",
+    "ipa": "[ˈɛvəɾəns]",
+    "learned": true
+  },
+  {
+    "word": "examine",
+    "translation": "kiểm tra, khảo sát",
+    "ipa": "/ɪɡˈzæmɪn/",
+    "learned": true
+  },
+  {
+    "word": "exceed",
+    "translation": "vượt quá",
+    "ipa": "/ɪkˈsiːd/",
+    "learned": true
+  },
+  {
+    "word": "executive",
+    "translation": "điều hành, quản trị",
+    "ipa": "/ɛɡˈzɛkjʊtɪv/",
+    "learned": true
+  },
+  {
+    "word": "expedite",
+    "translation": "thúc đẩy tiến độ",
+    "ipa": "/ˈɛk.spəˌdaɪt/",
+    "learned": true
+  },
+  {
+    "word": "facilities",
+    "translation": "cơ sở vật chất",
+    "ipa": "/fəˈsɪlɪtiz/",
+    "learned": true
+  },
+  {
+    "word": "feature",
+    "translation": "đặc điểm, tính năng",
+    "ipa": "/ˈfiːtʃə/",
+    "learned": true
+  },
+  {
+    "word": "flexible",
+    "translation": "linh hoạt",
+    "ipa": "/ˈflɛk.sə.bəl/",
+    "learned": true
+  },
+  {
+    "word": "fluctuate",
+    "translation": "dao động, biến động",
+    "ipa": "/ˈflʌktʃueɪt/",
+    "learned": true
+  },
+  {
+    "word": "forecast",
+    "translation": "dự báo, dự đoán",
+    "ipa": "/ˈfɔːkɑːst/",
+    "learned": true
+  },
+  {
+    "word": "foster",
+    "translation": "thúc đẩy, nuôi dưỡng",
+    "ipa": "/ˈfɔstər/",
+    "learned": true
+  },
+  {
+    "word": "fulfill",
+    "translation": "hoàn thành, đáp ứng",
+    "ipa": "/fəˈfɪl/",
+    "learned": true
+  },
+  {
+    "word": "gather",
+    "translation": "tập hợp, thu thập",
+    "ipa": "/ˈɡæðə/",
+    "learned": true
+  },
+  {
+    "word": "genuine",
+    "translation": "chính hãng, chân thành",
+    "ipa": "/ˈdʒɛnjuːˌaɪn/",
+    "learned": true
+  },
+  {
+    "word": "guarantee",
+    "translation": "bảo hành, cam kết",
+    "ipa": "/ˌɡæɹənˈtiː/",
+    "learned": true
+  },
+  {
+    "word": "guideline",
+    "translation": "hướng dẫn, chỉ dẫn",
+    "ipa": "/ˈɡaɪdlaɪn/",
+    "learned": true
+  },
+  {
+    "word": "habitat",
+    "translation": "môi trường sống",
+    "ipa": "/ˈhæbɪˌtæt/",
+    "learned": true
+  },
+  {
+    "word": "heritage",
+    "translation": "di sản, di tích",
+    "ipa": "/ˈhɛɹɪtɪd͡ʒ/",
+    "learned": true
+  },
+  {
+    "word": "identify",
+    "translation": "nhận dạng, xác định",
+    "ipa": "/aɪˈdɛn.tɪ.faɪ/",
+    "learned": true
+  },
+  {
+    "word": "impact",
+    "translation": "+ on : tác động, ảnh hưởng",
+    "ipa": "/ˈɪmpækt/",
+    "learned": true
+  },
+  {
+    "word": "implement",
+    "translation": "Thực hiện, triển khai",
+    "ipa": "/ˈɪmpləmənt/",
+    "learned": true
+  },
+  {
+    "word": "incentive",
+    "translation": "khuyến khích, khích lệ",
+    "ipa": "/ɪnˈsɛntɪv/",
+    "learned": true
+  },
+  {
+    "word": "indicate",
+    "translation": "chỉ ra, biểu thị",
+    "ipa": "/ˈɪndɪkeɪt/",
+    "learned": true
+  },
+  {
+    "word": "initiative",
+    "translation": "sáng kiến, khởi xướng",
+    "ipa": "/ɪˈnɪʃətɪv/",
+    "learned": true
+  },
+  {
+    "word": "innovation",
+    "translation": "sự đổi mới, sáng tạo",
+    "ipa": "/ˌɪnəˈveɪʃən/",
+    "learned": true
+  },
+  {
+    "word": "inspect",
+    "translation": "kiểm tra, thanh tra",
+    "ipa": "/ɪnˈspɛkt/",
+    "learned": true
+  },
+  {
+    "word": "inspire",
+    "translation": "truyền cảm hứng",
+    "ipa": "/ɪn.ˈspaɪə(ɹ)/",
+    "learned": true
+  },
+  {
+    "word": "institution",
+    "translation": "tổ chức, cơ quan",
+    "ipa": "/ˌɪnstɪˈtjuːʃən/",
+    "learned": true
+  },
+  {
+    "word": "inventory",
+    "translation": "hàng tồn kho, kiểm kê",
+    "ipa": "/ɪnˈvɛn.tə.ɹi/",
+    "learned": true
+  },
+  {
+    "word": "isolate",
+    "translation": "cô lập, tách biệt",
+    "ipa": "/ˈaɪsəˌleɪt/",
+    "learned": true
+  },
+  {
+    "word": "itinerary",
+    "translation": "lịch trình chuyến đi",
+    "ipa": "/aɪˈtɪnəɹi/",
+    "learned": true
+  },
+  {
+    "word": "justice",
+    "translation": "công lý",
+    "ipa": "/ˈdʒʌs.tɪs/",
+    "learned": true
+  },
+  {
+    "word": "maintain",
+    "translation": "duy trì, bảo dưỡng",
+    "ipa": "/meɪnˈteɪn/",
+    "learned": true
+  },
+  {
+    "word": "mandatory",
+    "translation": "bắt buộc",
+    "ipa": "/ˈmæn.də.t(ə)ɹi/",
+    "learned": true
+  },
+  {
+    "word": "measure",
+    "translation": "đo lường, biện pháp",
+    "ipa": "/ˈmɛʒə/",
+    "learned": true
+  },
+  {
+    "word": "mitigate",
+    "translation": "giảm nhẹ, giảm thiểu",
+    "ipa": "/ˈmɪt.ɪ.ɡeɪt/",
+    "learned": true
+  },
+  {
+    "word": "moderate",
+    "translation": "vừa phải, điều độ",
+    "ipa": "/ˈmɑdəɹeɪt/",
+    "learned": true
+  },
+  {
+    "word": "modify",
+    "translation": "chỉnh sửa, thay đổi",
+    "ipa": "/ˈmɒdɪfaɪ/",
+    "learned": true
+  },
+  {
+    "word": "motivate",
+    "translation": "thúc đẩy, tạo động lực",
+    "ipa": "/ˈməʊtɪveɪt/",
+    "learned": true
+  },
+  {
+    "word": "negotiate",
+    "translation": "đàm phán, thương lượng",
+    "ipa": "/nəˈɡəʊ.ʃi.eɪt/",
+    "learned": true
+  },
+  {
+    "word": "nominate",
+    "translation": "đề cử, chỉ định",
+    "ipa": "/ˈnɒm.ə.neɪt/",
+    "learned": true
+  },
+  {
+    "word": "notable",
+    "translation": "đáng chú ý, nổi bật",
+    "ipa": "/ˈnəʊtəbl̩/",
+    "learned": true
+  },
+  {
+    "word": "obligation",
+    "translation": "nghĩa vụ, bổn phận",
+    "ipa": "/ɑb.ləˈɡeɪ.ʃən/",
+    "learned": true
+  },
+  {
+    "word": "obtain",
+    "translation": "đạt được, thu được",
+    "ipa": "/əbˈteɪn/",
+    "learned": true
+  },
+  {
+    "word": "obsolete",
+    "translation": "lỗi thời, không còn dùng",
+    "ipa": "/ˈɒbsəliːt/",
+    "learned": true
+  },
+  {
+    "word": "occupy",
+    "translation": "chiếm giữ, bận rộn",
+    "ipa": "/ˈɒkjʊpaɪ/",
+    "learned": true
+  },
+  {
+    "word": "optimize",
+    "translation": "tối ưu hóa",
+    "ipa": "/ˈɒptɪmaɪz/",
+    "learned": true
+  },
+  {
+    "word": "participate",
+    "translation": "+ in : tham gia",
+    "ipa": "/pɑːrˈtɪsɪpeɪt/",
+    "learned": true
+  },
+  {
+    "word": "patient",
+    "translation": "kiên nhẫn, bệnh nhân",
+    "ipa": "/ˈpeɪʃənt/",
+    "learned": true
+  },
+  {
+    "word": "penalty",
+    "translation": "hình phạt, tiền phạt",
+    "ipa": "/ˈpɛnəlti/",
+    "learned": true
+  },
+  {
+    "word": "perform",
+    "translation": "trình diễn, thực hiện",
+    "ipa": "/pəˈfɔːm/",
+    "learned": true
+  },
+  {
+    "word": "permanent",
+    "translation": "lâu dài, vĩnh viễn",
+    "ipa": "/ˈpɜː.mə.nənt/",
+    "learned": true
+  },
+  {
+    "word": "permission",
+    "translation": "sự cho phép",
+    "ipa": "/pəˈmɪʃən/",
+    "learned": true
+  },
+  {
+    "word": "persuade",
+    "translation": "thuyết phục",
+    "ipa": "/pəˈsweɪd/",
+    "learned": true
+  },
+  {
+    "word": "pollution",
+    "translation": "sự ô nhiễm",
+    "ipa": "/pəˈl(j)uːʃn̩/",
+    "learned": true
+  },
+  {
+    "word": "portfolio",
+    "translation": "hồ sơ năng lực, danh mục",
+    "ipa": "/pɔːrˈtfoʊlioʊ/",
+    "learned": true
+  },
+  {
+    "word": "postpone",
+    "translation": "trì hoãn, hoãn lại",
+    "ipa": "/poʊstˈpoʊn/",
+    "learned": true
+  },
+  {
+    "word": "potential",
+    "translation": "tiềm năng",
+    "ipa": "/pəˈtɛnʃəl/",
+    "learned": true
+  },
+  {
+    "word": "practical",
+    "translation": "thực tế, thiết thực",
+    "ipa": "/ˈpɹæktɪkəl/",
+    "learned": true
+  },
+  {
+    "word": "predict",
+    "translation": "dự đoán, tiên đoán",
+    "ipa": "/pɹɪˈdɪkt/",
+    "learned": true
+  },
+  {
+    "word": "prerequisite",
+    "translation": "điều kiện tiên quyết",
+    "ipa": "/pɹiːˈɹɛkwɪzɪt/",
+    "learned": true
+  },
+  {
+    "word": "preserve",
+    "translation": "bảo tồn, giữ gìn",
+    "ipa": "/pɹəˈzɜːv/",
+    "learned": true
+  },
+  {
+    "word": "procedure",
+    "translation": "thủ tục, quy trình",
+    "ipa": "/pɹəˈsiːdʒə/",
+    "learned": true
+  },
+  {
+    "word": "procurement",
+    "translation": "thu mua vật phẩm",
+    "ipa": "/pɹəˈkjʊə.mənt/",
+    "learned": true
+  },
+  {
+    "word": "prohibit",
+    "translation": "+ from : cấm",
+    "ipa": "/pɹəʊˈhɪbɪt/",
+    "learned": true
+  },
+  {
+    "word": "promote",
+    "translation": "thăng chức, quảng bá",
+    "ipa": "/prəˈmoʊt/",
+    "learned": true
+  },
+  {
+    "word": "prompt",
+    "translation": "nhanh chóng, kịp thời",
+    "ipa": "/pɹɒmpt/",
+    "learned": true
+  },
+  {
+    "word": "prosperity",
+    "translation": "sự thịnh vượng",
+    "ipa": "/pɹɒˈspɛɹ.ɪ.ti/",
+    "learned": true
+  },
+  {
+    "word": "punctual",
+    "translation": "đúng giờ",
+    "ipa": "/ˈpʌŋktjʊəl/",
+    "learned": true
+  },
+  {
+    "word": "qualify",
+    "translation": "đủ điều kiện, tư cách",
+    "ipa": "/ˈkwɒl.ɪ.faɪ/",
+    "learned": true
+  },
+  {
+    "word": "quarantine",
+    "translation": "cách ly, kiểm dịch",
+    "ipa": "/ˈkwɒɹ.ən.taɪn/",
+    "learned": true
+  },
+  {
+    "word": "radiant",
+    "translation": "rạng rỡ, sáng chói",
+    "ipa": "/ˈreɪdiənt/",
+    "learned": true
+  },
+  {
+    "word": "reconcile",
+    "translation": "hòa giải, nhất trí",
+    "ipa": "/ˈɹɛkənsaɪl/",
+    "learned": true
+  },
+  {
+    "word": "recruit",
+    "translation": "tuyển dụng",
+    "ipa": "/ɹɪˈkɹuːt/",
+    "learned": true
+  },
+  {
+    "word": "refrain",
+    "translation": "+ from : kiềm chế",
+    "ipa": "/ɹɪˈfɹeɪn/",
+    "learned": true
+  },
+  {
+    "word": "regulation",
+    "translation": "quy định, điều lệ",
+    "ipa": "/ˌɹɛɡjʊˈleɪʃən/",
+    "learned": true
+  },
+  {
+    "word": "reimburse",
+    "translation": "hoàn trả, bồi hoàn",
+    "ipa": "/ˌriːɪmˈbɜːs/",
+    "learned": true
+  },
+  {
+    "word": "reinforce",
+    "translation": "củng cố, tăng cường",
+    "ipa": "/ˌɹiːɪnˈfɔː(ɹ)s/",
+    "learned": true
+  },
+  {
+    "word": "reliable",
+    "translation": "đáng tin cậy",
+    "ipa": "/ɹɪˈlaɪəbəl/",
+    "learned": true
+  },
+  {
+    "word": "relinquish",
+    "translation": "từ bỏ, nhượng quyền",
+    "ipa": "[ɹɪˈlɪŋkwɪʃ]",
+    "learned": true
+  },
+  {
+    "word": "representative",
+    "translation": "người đại diện",
+    "ipa": "/ˌrɛprɪˈzɛntətɪv/",
+    "learned": true
+  },
+  {
+    "word": "require",
+    "translation": "yêu cầu, đòi hỏi",
+    "ipa": "/ɹɪˈkwaɪə/",
+    "learned": true
+  },
+  {
+    "word": "rescue",
+    "translation": "giải cứu, cứu nạn",
+    "ipa": "/ˈɹɛs.kjuː/",
+    "learned": true
+  },
+  {
+    "word": "resolve",
+    "translation": "giải quyết, xử lý",
+    "ipa": "/ɹiːˈzɒlv/",
+    "learned": true
+  },
+  {
+    "word": "restrict",
+    "translation": "hạn chế, thu hẹp",
+    "ipa": "/ɹɪˈstɹɪkt/",
+    "learned": true
+  },
+  {
+    "word": "revenue",
+    "translation": "doanh thu, lợi tức",
+    "ipa": "/ˈɹɛvənjuː/",
+    "learned": true
+  },
+  {
+    "word": "satisfaction",
+    "translation": "sự hài lòng, thỏa mãn",
+    "ipa": "/sætɪsˈfækʃən/",
+    "learned": true
+  },
+  {
+    "word": "schedule",
+    "translation": "lịch trình, kế hoạch",
+    "ipa": "/ˈskɛ.dʒu.əl/",
+    "learned": true
+  },
+  {
+    "word": "significant",
+    "translation": "có ý nghĩa, đáng kể",
+    "ipa": "/sɪɡˈnɪ.fɪ.kənt/",
+    "learned": true
+  },
+  {
+    "word": "solicit",
+    "translation": "kêu gọi, khẩn khoản",
+    "ipa": "/səˈlɪsɪt/",
+    "learned": true
+  },
+  {
+    "word": "solution",
+    "translation": "giải pháp",
+    "ipa": "/səˈl(j)uːʃən/",
+    "learned": true
+  },
+  {
+    "word": "specialize",
+    "translation": "+ in : chuyên môn hóa",
+    "ipa": "/ˈspeʃəlaɪz/",
+    "learned": true
+  },
+  {
+    "word": "speculate",
+    "translation": "suy đoán, phỏng đoán",
+    "ipa": "/ˈspɛkjʊleɪt/",
+    "learned": true
+  },
+  {
+    "word": "strategy",
+    "translation": "chiến lược",
+    "ipa": "/ˈstɹætədʒi/",
+    "learned": true
+  },
+  {
+    "word": "structure",
+    "translation": "kết cấu, cấu trúc",
+    "ipa": "/ˈstɹʌktʃə(ɹ)/",
+    "learned": true
+  },
+  {
+    "word": "substantial",
+    "translation": "đáng kể, quan trọng",
+    "ipa": "/səbˈstænʃəl/",
+    "learned": true
+  },
+  {
+    "word": "sufficient",
+    "translation": "đầy đủ, thỏa đáng",
+    "ipa": "/səˈfɪʃənt/",
+    "learned": true
+  },
+  {
+    "word": "suitable",
+    "translation": "+ for : phù hợp, thích hợp",
+    "ipa": "/ˈsuːtəbl/",
+    "learned": true
+  },
+  {
+    "word": "supervise",
+    "translation": "giám sát, quản lý",
+    "ipa": "/ˈsuːpəvaɪz/",
+    "learned": true
+  },
+  {
+    "word": "sustain",
+    "translation": "duy trì, chịu đựng",
+    "ipa": "/səˈsteɪn/",
+    "learned": true
+  },
+  {
+    "word": "sustainable",
+    "translation": "bền vững",
+    "ipa": "/səˈsteɪnəbəl/",
+    "learned": true
+  },
+  {
+    "word": "terminate",
+    "translation": "chấm dứt, kết thúc",
+    "ipa": "/ˈtɜːmɪneɪt/",
+    "learned": true
+  },
+  {
+    "word": "thorough",
+    "translation": "kỹ lưỡng, thấu đáo",
+    "ipa": "/ˈθʌɹə/",
+    "learned": true
+  },
+  {
+    "word": "thrifty",
+    "translation": "tiết kiệm, tằn tiện",
+    "ipa": "/ˈθɹɪfti/",
+    "learned": true
+  },
+  {
+    "word": "tolerate",
+    "translation": "chịu đựng, tha thứ",
+    "ipa": "/ˈtɒl.ə.ɹeɪt/",
+    "learned": true
+  },
+  {
+    "word": "transaction",
+    "translation": "giao dịch",
+    "ipa": "/tɹænˈzækʃən/",
+    "learned": true
+  },
+  {
+    "word": "transfer",
+    "translation": "chuyển khoản, di chuyển",
+    "ipa": "/ˈtɹænzfɜː/",
+    "learned": true
+  },
+  {
+    "word": "treatment",
+    "translation": "sự đối đãi, chữa trị",
+    "ipa": "/ˈtɹiːtmənt/",
+    "learned": true
+  },
+  {
+    "word": "trigger",
+    "translation": "kích hoạt, khơi mào",
+    "ipa": "/ˈtɹɪɡə/",
+    "learned": true
+  },
+  {
+    "word": "unanimous",
+    "translation": "nhất trí, đồng lòng",
+    "ipa": "/juːˈnæn.ɪ.məs/",
+    "learned": true
+  },
+  {
+    "word": "unite",
+    "translation": "đoàn kết, hợp nhất",
+    "ipa": "/juˈnaɪt/",
+    "learned": true
+  },
+  {
+    "word": "urban",
+    "translation": "đô thị, thành thị",
+    "ipa": "/ˈɜːbən/",
+    "learned": true
+  },
+  {
+    "word": "urgent",
+    "translation": "cấp bách, khẩn cấp",
+    "ipa": "/ˈɜːdʒənt/",
+    "learned": true
+  },
+  {
+    "word": "utilize",
+    "translation": "sử dụng, tận dụng",
+    "ipa": "/ˈjuːtɨlaɪz/",
+    "learned": true
+  },
+  {
+    "word": "vacant",
+    "translation": "trống, khuyết",
+    "ipa": "/ˈveɪ.kənt/",
+    "learned": true
+  },
+  {
+    "word": "validate",
+    "translation": "xác nhận, phê chuẩn",
+    "ipa": "/ˈvæl.ɪ.deɪt/",
+    "learned": true
+  },
+  {
+    "word": "vantage",
+    "translation": "thuận lợi, điểm ngắm",
+    "ipa": "/ˈvɑːntɪd͡ʒ/",
+    "learned": true
+  },
+  {
+    "word": "variety",
+    "translation": "sự đa dạng",
+    "ipa": "/vəˈɹaɪ.ɪ.ti/",
+    "learned": true
+  },
+  {
+    "word": "venture",
+    "translation": "mạo hiểm, liên doanh",
+    "ipa": "/ˈvɛn.t͡ʃə/",
+    "learned": true
+  },
+  {
+    "word": "verify",
+    "translation": "xác minh, kiểm tra lại",
+    "ipa": "/ˈvɛrɪfaɪ/",
+    "learned": true
+  },
+  {
+    "word": "violate",
+    "translation": "vi phạm",
+    "ipa": "/ˈvaɪəˌleɪt/",
+    "learned": true
+  },
+  {
+    "word": "vital",
+    "translation": "thiết yếu, sống còn",
+    "ipa": "/ˈvaɪt̬əl/",
+    "learned": true
+  },
+  {
+    "word": "voluntary",
+    "translation": "tự nguyện",
+    "ipa": "/ˈvɒ.lən.tɹi/",
+    "learned": true
+  },
+  {
+    "word": "warehouse",
+    "translation": "kho hàng, nhà kho",
+    "ipa": "/ˈwɛəhaʊs/",
+    "learned": true
+  },
+  {
+    "word": "warranty",
+    "translation": "phiếu bảo hành",
+    "ipa": "/ˈwɒ.ɹən.ti/",
+    "learned": true
+  },
+  {
+    "word": "withdraw",
+    "translation": "rút lui, rút tiền",
+    "ipa": "/wɪðˈdɹɔː/",
+    "learned": true
+  },
+  {
+    "word": "workload",
+    "translation": "khối lượng công việc",
+    "ipa": "/ˈwɜːkləʊd/",
+    "learned": true
+  },
+  {
+    "word": "worthwhile",
+    "translation": "đáng giá, bổ ích",
+    "ipa": "/ˌwɜːθˈwaɪl/",
+    "learned": true
+  },
+  {
+    "word": "yield",
+    "translation": "năng suất, sản lượng",
+    "ipa": "/jiːld/",
+    "learned": true
+  },
+  {
+    "word": "zero",
+    "translation": "không",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gonna",
+    "translation": "sẽ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gotta",
+    "translation": "phải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "anesthetic",
+    "translation": "gây mê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inAugurate",
+    "translation": "vào tháng 8",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "accurately",
+    "translation": "chính xác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "appetizer",
+    "translation": "món khai vị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "apprentice",
+    "translation": "người học việc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "apprehensive",
+    "translation": "e ngại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "attach",
+    "translation": "đính kèm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "attain",
+    "translation": "đạt được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "attendee",
+    "translation": "người tham dự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "audit",
+    "translation": "kiểm toán",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "awareness",
+    "translation": "nhận thức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "band",
+    "translation": "ban nhạc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bowl",
+    "translation": "bát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bark",
+    "translation": "vỏ cây",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "burn",
+    "translation": "đốt cháy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "branch",
+    "translation": "chi nhánh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bush",
+    "translation": "bụi cây",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "basket",
+    "translation": "cái giỏ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bake",
+    "translation": "nướng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bother",
+    "translation": "làm phiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bleed",
+    "translation": "chảy máu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "barber",
+    "translation": "thợ cắt tóc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "blink",
+    "translation": "chớp mắt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bronze",
+    "translation": "đồng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bored",
+    "translation": "chán",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grill",
+    "translation": "nướng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "biologist",
+    "translation": "nhà sinh vật học",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "basement",
+    "translation": "tầng hầm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "behave",
+    "translation": "cư xử",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bliss",
+    "translation": "hạnh phúc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "board",
+    "translation": "bảng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "broad",
+    "translation": "rộng rãi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "briefcase",
+    "translation": "vali",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bulletin",
+    "translation": "bản tin",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "burden",
+    "translation": "gánh nặng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "benchmark",
+    "translation": "điểm chuẩn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "beneath",
+    "translation": "bên dưới",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cart",
+    "translation": "xe đẩy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "chute",
+    "translation": "máng trượt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "coach",
+    "translation": "huấn luyện viên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "court",
+    "translation": "tòa án",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cheer",
+    "translation": "cổ vũ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "civil",
+    "translation": "dân sự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cough",
+    "translation": "ho",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cycle",
+    "translation": "chu kỳ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "circle",
+    "translation": "vòng tròn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "customs",
+    "translation": "hải quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "campus",
+    "translation": "khuôn viên trường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "credit",
+    "translation": "tín dụng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "citizen",
+    "translation": "công dân",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "curious",
+    "translation": "tò mò",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "concept",
+    "translation": "khái niệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "crumble",
+    "translation": "vỡ vụn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "critical",
+    "translation": "quan trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "contrast",
+    "translation": "độ tương phản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "celebrate",
+    "translation": "ăn mừng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "character",
+    "translation": "nhân vật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "conclude",
+    "translation": "kết luận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "currently",
+    "translation": "hiện tại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "complaint",
+    "translation": "phàn nàn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "conclusion",
+    "translation": "kết luận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "collection",
+    "translation": "bộ sưu tập",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "comforter",
+    "translation": "chăn bông",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "closet",
+    "translation": "tủ quần áo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "charger",
+    "translation": "sạc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clinic",
+    "translation": "phòng khám",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "compact",
+    "translation": "nhỏ gọn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cafeteria",
+    "translation": "quán ăn tự phục vụ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "carrier",
+    "translation": "người chuyên chở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "catalog",
+    "translation": "danh mục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "casual",
+    "translation": "bình thường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cruel",
+    "translation": "độc ác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cover",
+    "translation": "che",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cell",
+    "translation": "tế bào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clause",
+    "translation": "điều khoản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "classify",
+    "translation": "phân loại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "coming",
+    "translation": "đang tới",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "commission",
+    "translation": "hoa hồng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "compensation",
+    "translation": "bồi thường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "complication",
+    "translation": "sự phức tạp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "component",
+    "translation": "thành phần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "comprehensive",
+    "translation": "toàn diện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "confuse",
+    "translation": "nhầm lẫn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "conservative",
+    "translation": "bảo thủ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "consultant",
+    "translation": "nhà tư vấn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "coordinate",
+    "translation": "phối hợp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "coverage",
+    "translation": "bảo hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "canal",
+    "translation": "con kênh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "carton",
+    "translation": "thùng carton",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cease",
+    "translation": "chấm dứt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "chemical",
+    "translation": "hóa chất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clarify",
+    "translation": "làm rõ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "coast",
+    "translation": "bờ biển",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "coincide",
+    "translation": "trùng hợp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "compensate",
+    "translation": "bù đắp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "commence",
+    "translation": "bắt đầu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "consensus",
+    "translation": "sự đồng thuận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "construct",
+    "translation": "xây dựng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "consolidate",
+    "translation": "củng cố",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "constraint",
+    "translation": "hạn chế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "counter",
+    "translation": "quầy tính tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cruise",
+    "translation": "hành trình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "currency",
+    "translation": "tiền tệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "circus",
+    "translation": "rạp xiếc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dust",
+    "translation": "bụi bặm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dawn",
+    "translation": "bình minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "daily",
+    "translation": "hàng ngày",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dream",
+    "translation": "giấc mơ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "depth",
+    "translation": "độ sâu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "degree",
+    "translation": "bằng cấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "depart",
+    "translation": "khởi hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "desert",
+    "translation": "sa mạc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dessert",
+    "translation": "món tráng miệng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "detect",
+    "translation": "phát hiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "divide",
+    "translation": "chia",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disease",
+    "translation": "bệnh tật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "drawer",
+    "translation": "ngăn kéo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dynamic",
+    "translation": "năng động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "depress",
+    "translation": "chán nản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "despise",
+    "translation": "coi thường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "digital",
+    "translation": "kỹ thuật số",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "director",
+    "translation": "giám đốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "describe",
+    "translation": "mô tả",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "decrease",
+    "translation": "giảm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "discover",
+    "translation": "khám phá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "decorate",
+    "translation": "trang trí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "different",
+    "translation": "khác nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "difficult",
+    "translation": "khó khăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "drawback",
+    "translation": "nhược điểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "discussion",
+    "translation": "thảo luận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "delivery",
+    "translation": "giao hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "designate",
+    "translation": "chỉ định",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dialogue",
+    "translation": "đối thoại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "directory",
+    "translation": "thư mục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "discount",
+    "translation": "giảm giá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "discrepancy",
+    "translation": "sự khác biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disparate",
+    "translation": "khác nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dispose",
+    "translation": "vứt bỏ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disseminate",
+    "translation": "phổ biến",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "distinguish",
+    "translation": "phân biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disturb",
+    "translation": "làm phiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "drought",
+    "translation": "hạn hán",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disaster",
+    "translation": "thảm họa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "darling",
+    "translation": "em yêu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "defect",
+    "translation": "khiếm khuyết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "debit",
+    "translation": "ghi nợ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "deduction",
+    "translation": "khấu trừ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "daring",
+    "translation": "táo bạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "definite",
+    "translation": "xác định",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "defer",
+    "translation": "trì hoãn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "deposit",
+    "translation": "đặt cọc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "derive",
+    "translation": "lấy được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dependent",
+    "translation": "phụ thuộc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disrupt",
+    "translation": "làm gián đoạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dispatch",
+    "translation": "gửi đi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "duplicate",
+    "translation": "trùng lặp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "draped",
+    "translation": "khoác áo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "even",
+    "translation": "thậm chí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "effect",
+    "translation": "hiệu ứng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "earn",
+    "translation": "kiếm tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "equal",
+    "translation": "bằng nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "entire",
+    "translation": "toàn bộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enemy",
+    "translation": "kẻ thù",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exact",
+    "translation": "chính xác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "extra",
+    "translation": "thêm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exist",
+    "translation": "tồn tại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "eager",
+    "translation": "háo hức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "excite",
+    "translation": "kích động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "escape",
+    "translation": "trốn thoát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "except",
+    "translation": "ngoại trừ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expect",
+    "translation": "mong đợi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expert",
+    "translation": "chuyên gia",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "engine",
+    "translation": "động cơ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expand",
+    "translation": "mở rộng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "extend",
+    "translation": "mở rộng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "engage",
+    "translation": "tham gia",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "extreme",
+    "translation": "cực đoan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "explain",
+    "translation": "giải thích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "explore",
+    "translation": "khám phá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exercise",
+    "translation": "tập thể dục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exchange",
+    "translation": "trao đổi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "economic",
+    "translation": "kinh tế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exhausted",
+    "translation": "kiệt sức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ecosystem",
+    "translation": "hệ sinh thái",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "encourage",
+    "translation": "khuyến khích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "emergency",
+    "translation": "trường hợp khẩn cấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "especially",
+    "translation": "đặc biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "eventually",
+    "translation": "cuối cùng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "emotion",
+    "translation": "cảm xúc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "embarrass",
+    "translation": "làm xấu hổ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "embassy",
+    "translation": "đại sứ quán",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "eternal",
+    "translation": "vĩnh cửu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enable",
+    "translation": "kích hoạt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enforce",
+    "translation": "thi hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "endorse",
+    "translation": "xác nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "escalate",
+    "translation": "leo thang",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "external",
+    "translation": "bên ngoài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "encounter",
+    "translation": "gặp phải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "eliminate",
+    "translation": "loại bỏ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "economy",
+    "translation": "kinh tế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "economize",
+    "translation": "tiết kiệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "elegance",
+    "translation": "sang trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "element",
+    "translation": "phần tử",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "embark",
+    "translation": "lên tàu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "emphasis",
+    "translation": "sự nhấn mạnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "employee",
+    "translation": "nhân viên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enroll",
+    "translation": "ghi danh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enthusiasm",
+    "translation": "sự nhiệt tình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "entitle",
+    "translation": "quyền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "equivalent",
+    "translation": "tương đương",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "escort",
+    "translation": "hộ tống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "evident",
+    "translation": "hiển nhiên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "excursion",
+    "translation": "chuyến tham quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "execute",
+    "translation": "thi hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exempt",
+    "translation": "miễn trừ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exhibit",
+    "translation": "triển lãm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expense",
+    "translation": "chi phí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "experiment",
+    "translation": "thí nghiệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expire",
+    "translation": "hết hạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expose",
+    "translation": "vạch trần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "estate",
+    "translation": "bất động sản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "feel",
+    "translation": "cảm thấy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fluent",
+    "translation": "thông thạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fill",
+    "translation": "điền vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "float",
+    "translation": "phao",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "feed",
+    "translation": "thức ăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "force",
+    "translation": "lực lượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fix",
+    "translation": "sửa chữa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "firm",
+    "translation": "chắc chắn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "flat",
+    "translation": "bằng phẳng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "floor",
+    "translation": "sàn nhà",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "flip",
+    "translation": "lật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fuel",
+    "translation": "nhiên liệu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "flood",
+    "translation": "lũ lụt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fence",
+    "translation": "hàng rào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fever",
+    "translation": "sốt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "funds",
+    "translation": "quỹ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "forgive",
+    "translation": "tha thứ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "frozen",
+    "translation": "đông lạnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "formal",
+    "translation": "chính thức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fasten",
+    "translation": "buộc chặt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fortune",
+    "translation": "vận may",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "farewell",
+    "translation": "tạm biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "furniture",
+    "translation": "đồ nội thất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "factory",
+    "translation": "nhà máy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fare",
+    "translation": "giá vé",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fault",
+    "translation": "lỗi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fee",
+    "translation": "lệ phí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "finance",
+    "translation": "tài chính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "flavor",
+    "translation": "hương vị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fold",
+    "translation": "gấp lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "forward",
+    "translation": "phía trước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "freight",
+    "translation": "vận chuyển hàng hóa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "frugal",
+    "translation": "tằn tiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "figure",
+    "translation": "hình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "found",
+    "translation": "tìm thấy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gone",
+    "translation": "đã biến mất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grab",
+    "translation": "chộp lấy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gain",
+    "translation": "đạt được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grow",
+    "translation": "phát triển",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "goat",
+    "translation": "con dê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "giant",
+    "translation": "khổng lồ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gulf",
+    "translation": "vịnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "glove",
+    "translation": "găng tay",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "goods",
+    "translation": "hàng hóa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gummy",
+    "translation": "kẹo dẻo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "guilty",
+    "translation": "có tội",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gadget",
+    "translation": "tiện ích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "device",
+    "translation": "thiết bị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "garden",
+    "translation": "vườn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grant",
+    "translation": "cấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "garage",
+    "translation": "gara",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "growth",
+    "translation": "tăng trưởng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "garbage",
+    "translation": "rác thải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "glacier",
+    "translation": "sông băng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grocery",
+    "translation": "cửa hàng tạp hóa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gusty",
+    "translation": "gió mạnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "graduate",
+    "translation": "tốt nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gravity",
+    "translation": "trọng lực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "garment",
+    "translation": "may mặc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gesture",
+    "translation": "cử chỉ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "glimpse",
+    "translation": "thoáng qua",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gallery",
+    "translation": "phòng trưng bày",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gap",
+    "translation": "khoảng trống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hit",
+    "translation": "đánh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "huge",
+    "translation": "to lớn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hide",
+    "translation": "trốn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "half",
+    "translation": "một nửa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "harm",
+    "translation": "làm hại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hose",
+    "translation": "vòi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hate",
+    "translation": "ghét",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "horn",
+    "translation": "sừng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hire",
+    "translation": "thuê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hive",
+    "translation": "tổ ong",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "habit",
+    "translation": "thói quen",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "handy",
+    "translation": "tiện dụng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "humid",
+    "translation": "ẩm ướt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "honor",
+    "translation": "vinh dự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hollow",
+    "translation": "rỗng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hunger",
+    "translation": "đói",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "handle",
+    "translation": "xử lý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hazard",
+    "translation": "nguy hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hammer",
+    "translation": "cái búa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "humane",
+    "translation": "nhân đạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "harvest",
+    "translation": "thu hoạch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hygiene",
+    "translation": "vệ sinh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hostile",
+    "translation": "thù địch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "harbor",
+    "translation": "hải cảng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "horizon",
+    "translation": "chân trời",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "haystack",
+    "translation": "đống cỏ khô",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "handshake",
+    "translation": "cái bắt tay",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hypothesis",
+    "translation": "giả thuyết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "headquarters",
+    "translation": "trụ sở chính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "haggle",
+    "translation": "mặc cả",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hamper",
+    "translation": "cản trở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "harness",
+    "translation": "khai thác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "haste",
+    "translation": "vội vàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "helmet",
+    "translation": "mũ bảo hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hinder",
+    "translation": "cản trở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hiking",
+    "translation": "đi bộ đường dài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ink",
+    "translation": "mực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "icon",
+    "translation": "biểu tượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bill",
+    "translation": "hóa đơn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inn",
+    "translation": "quán trọ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "income",
+    "translation": "thu nhập",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "island",
+    "translation": "hòn đảo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "invest",
+    "translation": "đầu tư",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "injury",
+    "translation": "chấn thương",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "improve",
+    "translation": "cải thiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "infect",
+    "translation": "lây nhiễm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "imagine",
+    "translation": "tưởng tượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "involve",
+    "translation": "liên quan đến",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intense",
+    "translation": "mãnh liệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "invoice",
+    "translation": "hóa đơn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "iceberg",
+    "translation": "tảng băng trôi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "impress",
+    "translation": "gây ấn tượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "industry",
+    "translation": "ngành công nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "interact",
+    "translation": "tương tác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "innocent",
+    "translation": "vô tội",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "identity",
+    "translation": "danh tính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inflation",
+    "translation": "lạm phát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "infection",
+    "translation": "nhiễm trùng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "interrupt",
+    "translation": "làm gián đoạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ingredient",
+    "translation": "thành phần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "individual",
+    "translation": "cá nhân",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "investigate",
+    "translation": "điều tra",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "instrument",
+    "translation": "nhạc cụ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "invention",
+    "translation": "phát minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intellectual",
+    "translation": "trí tuệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "immediate",
+    "translation": "ngay lập tức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "impose",
+    "translation": "áp đặt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "improper",
+    "translation": "không thích hợp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inconvenience",
+    "translation": "sự bất tiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "incorporate",
+    "translation": "kết hợp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "influx",
+    "translation": "sự tràn vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "instinct",
+    "translation": "bản năng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "insurance",
+    "translation": "bảo hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "integral",
+    "translation": "tích phân",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intend",
+    "translation": "có ý định",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "impede",
+    "translation": "cản trở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inference",
+    "translation": "suy luận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intact",
+    "translation": "nguyên vẹn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intervene",
+    "translation": "can thiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "indeed",
+    "translation": "thực sự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jug",
+    "translation": "cái bình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jail",
+    "translation": "nhà tù",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jar",
+    "translation": "bình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "judge",
+    "translation": "thẩm phán",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jog",
+    "translation": "chạy bộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jump",
+    "translation": "nhảy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jungle",
+    "translation": "rừng nhiệt đới",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jinx",
+    "translation": "xui xẻo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "journal",
+    "translation": "tạp chí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "joyful",
+    "translation": "vui vẻ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jumpy",
+    "translation": "giật mình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jewelry",
+    "translation": "đồ trang sức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "journey",
+    "translation": "cuộc hành trình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "junction",
+    "translation": "ngã ba",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jigsaw",
+    "translation": "ghép hình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "journalist",
+    "translation": "nhà báo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "journeyman",
+    "translation": "người hành trình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "jeopardy",
+    "translation": "nguy hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "joint",
+    "translation": "khớp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "kit",
+    "translation": "bộ đồ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "knob",
+    "translation": "núm vặn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "kettle",
+    "translation": "ấm đun nước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "kernel",
+    "translation": "hạt nhân",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "kudos",
+    "translation": "lời khen ngợi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "kindred",
+    "translation": "họ hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "keepsake",
+    "translation": "vật kỷ niệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lay",
+    "translation": "nằm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lie",
+    "translation": "nói dối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lead",
+    "translation": "chì",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "loud",
+    "translation": "ồn ào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "leaf",
+    "translation": "lá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "leak",
+    "translation": "rò rỉ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lend",
+    "translation": "cho mượn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lamp",
+    "translation": "đèn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lawn",
+    "translation": "bãi cỏ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "laugh",
+    "translation": "cười",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lens",
+    "translation": "ống kính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lobby",
+    "translation": "tiền sảnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "league",
+    "translation": "giải đấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ladder",
+    "translation": "thang",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "launch",
+    "translation": "phóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lease",
+    "translation": "thuê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "likely",
+    "translation": "có thể",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lining",
+    "translation": "lót",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "legacy",
+    "translation": "di sản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "luggage",
+    "translation": "hành lý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "landmark",
+    "translation": "cột mốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "labor",
+    "translation": "lao động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lack",
+    "translation": "thiếu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "layout",
+    "translation": "bố cục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lean",
+    "translation": "nạc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "license",
+    "translation": "giấy phép",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "list",
+    "translation": "danh sách",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "loan",
+    "translation": "tiền vay",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "luxury",
+    "translation": "sang trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "loose",
+    "translation": "lỏng lẻo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mine",
+    "translation": "của tôi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mix",
+    "translation": "trộn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "melt",
+    "translation": "tan chảy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mug",
+    "translation": "cốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "moss",
+    "translation": "rêu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "meal",
+    "translation": "bữa ăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "match",
+    "translation": "trận đấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "metal",
+    "translation": "kim loại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "medal",
+    "translation": "huy chương",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "matter",
+    "translation": "vấn đề",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "method",
+    "translation": "phương pháp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mention",
+    "translation": "đề cập đến",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mistake",
+    "translation": "sai lầm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "machine",
+    "translation": "máy móc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "movement",
+    "translation": "phong trào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mattress",
+    "translation": "nệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "manual",
+    "translation": "hướng dẫn sử dụng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "material",
+    "translation": "vật chất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mission",
+    "translation": "sứ mệnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "monument",
+    "translation": "tượng đài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "marina",
+    "translation": "bến du thuyền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "meadow",
+    "translation": "đồng cỏ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "maintenance",
+    "translation": "bảo trì",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "merchandise",
+    "translation": "hàng hóa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "merger",
+    "translation": "sáp nhập",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "merit",
+    "translation": "công đức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "minimize",
+    "translation": "giảm thiểu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "misrepresent",
+    "translation": "xuyên tạc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "moderator",
+    "translation": "người điều hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mortgage",
+    "translation": "thế chấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mandate",
+    "translation": "ủy quyền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mirror",
+    "translation": "gương",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "manufacture",
+    "translation": "sản xuất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "nod",
+    "translation": "gật đầu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "needle",
+    "translation": "cây kim",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "nature",
+    "translation": "thiên nhiên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "notice",
+    "translation": "thông báo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "neutral",
+    "translation": "trung tính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "notion",
+    "translation": "quan niệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "negative",
+    "translation": "tiêu cực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "notification",
+    "translation": "thông báo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "obligate",
+    "translation": "bắt buộc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "occur",
+    "translation": "xảy ra",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "opt",
+    "translation": "chọn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "outlet",
+    "translation": "ổ cắm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "outlook",
+    "translation": "triển vọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "outstanding",
+    "translation": "xuất sắc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "overall",
+    "translation": "tổng thể",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "overview",
+    "translation": "tổng quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "obviously",
+    "translation": "rõ ràng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "oyster",
+    "translation": "hàu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "opposite",
+    "translation": "ngược lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "official",
+    "translation": "chính thức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "officer",
+    "translation": "sĩ quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "original",
+    "translation": "nguyên bản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "organization",
+    "translation": "tổ chức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "observe",
+    "translation": "quan sát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "opportunity",
+    "translation": "cơ hội",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "over",
+    "translation": "kết thúc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "outcome",
+    "translation": "kết quả",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "outline",
+    "translation": "phác thảo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "orbit",
+    "translation": "quỹ đạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "optimistic",
+    "translation": "lạc quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "organism",
+    "translation": "sinh vật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "origin",
+    "translation": "nguồn gốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "organic",
+    "translation": "hữu cơ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pain",
+    "translation": "đau đớn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pour",
+    "translation": "đổ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pill",
+    "translation": "viên thuốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pose",
+    "translation": "tư thế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pipe",
+    "translation": "ống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prior",
+    "translation": "trước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "peace",
+    "translation": "hòa bình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "price",
+    "translation": "giá cả",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prove",
+    "translation": "chứng minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proud",
+    "translation": "tự hào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "poison",
+    "translation": "chất độc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "priority",
+    "translation": "ưu tiên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "profit",
+    "translation": "lợi nhuận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prison",
+    "translation": "nhà tù",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "planet",
+    "translation": "hành tinh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "permit",
+    "translation": "giấy phép",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proper",
+    "translation": "thích hợp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prepare",
+    "translation": "chuẩn bị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pursue",
+    "translation": "theo đuổi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pattern",
+    "translation": "hoa văn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "plastic",
+    "translation": "nhựa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "punish",
+    "translation": "trừng phạt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "produce",
+    "translation": "sản xuất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "promise",
+    "translation": "lời hứa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prevent",
+    "translation": "ngăn chặn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "provide",
+    "translation": "cung cấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "partner",
+    "translation": "đối tác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "position",
+    "translation": "vị trí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "publish",
+    "translation": "xuất bản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pleasure",
+    "translation": "niềm vui",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "process",
+    "translation": "quá trình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "protect",
+    "translation": "bảo vệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "purpose",
+    "translation": "mục đích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pressure",
+    "translation": "áp lực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "purchase",
+    "translation": "mua hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "positive",
+    "translation": "tích cực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "property",
+    "translation": "tài sản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proportion",
+    "translation": "tỷ lệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "participant",
+    "translation": "người tham gia",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pardon",
+    "translation": "tha thứ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "precise",
+    "translation": "chính xác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "precedent",
+    "translation": "tiền lệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "preliminary",
+    "translation": "sơ bộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "percent",
+    "translation": "phần trăm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "priest",
+    "translation": "linh mục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prize",
+    "translation": "giải thưởng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "panel",
+    "translation": "bảng điều khiển",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "parcel",
+    "translation": "bưu kiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "patron",
+    "translation": "người bảo trợ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "patent",
+    "translation": "bằng sáng chế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pension",
+    "translation": "lương hưu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pertinent",
+    "translation": "thích hợp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "petition",
+    "translation": "lời thỉnh cầu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "portion",
+    "translation": "phần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "postman",
+    "translation": "người đưa thư",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "postponement",
+    "translation": "sự trì hoãn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "predictable",
+    "translation": "có thể dự đoán được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "premises",
+    "translation": "cơ sở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "primary",
+    "translation": "chính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "progress",
+    "translation": "tiến bộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "promotion",
+    "translation": "khuyến mãi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proximity",
+    "translation": "sự gần gũi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quiz",
+    "translation": "câu đố",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quick",
+    "translation": "nhanh chóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quite",
+    "translation": "khá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quiet",
+    "translation": "yên tĩnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "queue",
+    "translation": "xếp hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quote",
+    "translation": "trích dẫn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "qualm",
+    "translation": "băn khoăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quality",
+    "translation": "chất lượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quantum",
+    "translation": "lượng tử",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quantity",
+    "translation": "số lượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quick fix",
+    "translation": "sửa chữa nhanh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rare",
+    "translation": "hiếm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "race",
+    "translation": "cuộc đua",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rear",
+    "translation": "phía sau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reach",
+    "translation": "đạt được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rate",
+    "translation": "tỷ lệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "receive",
+    "translation": "nhận được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rent",
+    "translation": "thuê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "recent",
+    "translation": "gần đây",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rest",
+    "translation": "nghỉ ngơi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "repeat",
+    "translation": "lặp lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rule",
+    "translation": "cai trị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rush",
+    "translation": "vội vã",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rude",
+    "translation": "thô lỗ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rapid",
+    "translation": "nhanh chóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ruin",
+    "translation": "hủy hoại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "range",
+    "translation": "phạm vi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rather",
+    "translation": "đúng hơn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reason",
+    "translation": "lý do",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "repair",
+    "translation": "sửa chữa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reveal",
+    "translation": "tiết lộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "remind",
+    "translation": "nhắc nhở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "remain",
+    "translation": "ở lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "regret",
+    "translation": "hối tiếc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "release",
+    "translation": "phát hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reward",
+    "translation": "phần thưởng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "routine",
+    "translation": "thói quen",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "retire",
+    "translation": "nghỉ hưu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reflect",
+    "translation": "phản ánh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reform",
+    "translation": "cải cách",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "replace",
+    "translation": "thay thế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "remark",
+    "translation": "nhận xét",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reserve",
+    "translation": "dự trữ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "represent",
+    "translation": "đại diện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "recommend",
+    "translation": "đề nghị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "resident",
+    "translation": "thường trú",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reception",
+    "translation": "tiếp nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "resource",
+    "translation": "tài nguyên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "refund",
+    "translation": "hoàn lại tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "responsibility",
+    "translation": "trách nhiệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "raw",
+    "translation": "thô",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "receipt",
+    "translation": "biên nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "recipe",
+    "translation": "công thức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "recognition",
+    "translation": "sự công nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rectify",
+    "translation": "sửa chữa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "refrigerator",
+    "translation": "tủ lạnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "regular",
+    "translation": "đều đặn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "relatively",
+    "translation": "tương đối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "repel",
+    "translation": "đẩy lùi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reputation",
+    "translation": "danh tiếng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reschedule",
+    "translation": "lên lịch lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "resume",
+    "translation": "sơ yếu lý lịch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "retailer",
+    "translation": "người bán lẻ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "revise",
+    "translation": "sửa lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "relevant",
+    "translation": "có liên quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "refer",
+    "translation": "tham khảo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "relocate",
+    "translation": "di dời",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "remit",
+    "translation": "chuyển tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reservoir",
+    "translation": "hồ chứa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "revoke",
+    "translation": "thu hồi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "same",
+    "translation": "giống nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "screen",
+    "translation": "màn hình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sail",
+    "translation": "cánh buồm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "smell",
+    "translation": "mùi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "seek",
+    "translation": "tìm kiếm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "seem",
+    "translation": "dường như",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ship",
+    "translation": "tàu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shake",
+    "translation": "lắc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sign",
+    "translation": "ký tên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sharp",
+    "translation": "nhọn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stay",
+    "translation": "ở lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "space",
+    "translation": "không gian",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "steel",
+    "translation": "thép",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spend",
+    "translation": "chi tiêu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stock",
+    "translation": "kho",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spare",
+    "translation": "dự phòng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stick",
+    "translation": "cây gậy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stain",
+    "translation": "vết ố",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "steal",
+    "translation": "ăn trộm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "strict",
+    "translation": "nghiêm khắc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "swear",
+    "translation": "thề",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "solve",
+    "translation": "giải quyết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spill",
+    "translation": "đổ tràn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stoked",
+    "translation": "bị đốt cháy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "smash",
+    "translation": "đập vỡ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "strike",
+    "translation": "đình công",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stare",
+    "translation": "nhìn chằm chằm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "soaked",
+    "translation": "ngâm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suddenly",
+    "translation": "đột nhiên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sunset",
+    "translation": "hoàng hôn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suffer",
+    "translation": "đau khổ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "speech",
+    "translation": "lời nói",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "supply",
+    "translation": "cung cấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "severe",
+    "translation": "nghiêm trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "survey",
+    "translation": "khảo sát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suspect",
+    "translation": "nghi ngờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "serious",
+    "translation": "nghiêm túc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "select",
+    "translation": "chọn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "section",
+    "translation": "phần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "soldier",
+    "translation": "người lính",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shallow",
+    "translation": "cạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "silent",
+    "translation": "im lặng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "similar",
+    "translation": "tương tự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "smooth",
+    "translation": "mịn màng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sentence",
+    "translation": "câu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sidewalk",
+    "translation": "vỉa hè",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stair",
+    "translation": "cầu thang",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stance",
+    "translation": "lập trường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stringent",
+    "translation": "nghiêm ngặt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suspend",
+    "translation": "đình chỉ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sweep",
+    "translation": "quét",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "souvenir",
+    "translation": "quà lưu niệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "subway",
+    "translation": "tàu điện ngầm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "standard",
+    "translation": "tiêu chuẩn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stable",
+    "translation": "ổn định",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "specific",
+    "translation": "cụ thể",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "separate",
+    "translation": "riêng biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spirit",
+    "translation": "tinh thần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "statement",
+    "translation": "tuyên bố",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spaceship",
+    "translation": "tàu vũ trụ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sufficiently",
+    "translation": "đủ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "salvage",
+    "translation": "cứu hộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sample",
+    "translation": "mẫu vật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "seminar",
+    "translation": "hội thảo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sense",
+    "translation": "giác quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "settle",
+    "translation": "giải quyết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shuttle",
+    "translation": "đưa đón",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "site",
+    "translation": "trang web",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spacious",
+    "translation": "rộng rãi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stage",
+    "translation": "sân khấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stalls",
+    "translation": "quầy hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stationery",
+    "translation": "văn phòng phẩm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stockroom",
+    "translation": "kho hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "substance",
+    "translation": "chất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "substitution",
+    "translation": "thay thế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suit",
+    "translation": "bộ đồ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "supervisor",
+    "translation": "người giám sát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "surgery",
+    "translation": "phẫu thuật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "switchboard",
+    "translation": "tổng đài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suspicious",
+    "translation": "nghi ngờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sincere",
+    "translation": "chân thành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hut",
+    "translation": "túp lều",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "treat",
+    "translation": "đối xử",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tend",
+    "translation": "có xu hướng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "terms",
+    "translation": "điều khoản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tire",
+    "translation": "lốp xe",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tone",
+    "translation": "giai điệu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tidy",
+    "translation": "gọn gàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tough",
+    "translation": "cứng rắn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tent",
+    "translation": "lều",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trace",
+    "translation": "dấu vết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trade",
+    "translation": "buôn bán",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "track",
+    "translation": "theo dõi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tract",
+    "translation": "đường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "truck",
+    "translation": "xe tải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trial",
+    "translation": "thử nghiệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "though",
+    "translation": "mặc dù",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "toward",
+    "translation": "hướng tới",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "thirsty",
+    "translation": "khát nước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "theory",
+    "translation": "lý thuyết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trouble",
+    "translation": "rắc rối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "through",
+    "translation": "thông qua",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "threat",
+    "translation": "mối đe dọa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "typical",
+    "translation": "điển hình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "treasure",
+    "translation": "kho báu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "transport",
+    "translation": "vận chuyển",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "temporary",
+    "translation": "tạm thời",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tradition",
+    "translation": "truyền thống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tournament",
+    "translation": "giải đấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "take part in",
+    "translation": "tham gia vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tax",
+    "translation": "thuế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tedium",
+    "translation": "tẻ nhạt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tempt",
+    "translation": "cám dỗ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tenant",
+    "translation": "người thuê nhà",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "theme",
+    "translation": "chủ đề",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "thrill",
+    "translation": "hồi hộp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "throw",
+    "translation": "ném",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tier",
+    "translation": "bậc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tourist",
+    "translation": "khách du lịch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tray",
+    "translation": "cái khay",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "turnover",
+    "translation": "doanh thu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trash",
+    "translation": "thùng rác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trunk",
+    "translation": "thân cây",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unit",
+    "translation": "đơn vị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unique",
+    "translation": "độc nhất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "union",
+    "translation": "sự đoàn kết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "until",
+    "translation": "cho đến khi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "usage",
+    "translation": "cách sử dụng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "useful",
+    "translation": "hữu ích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "useless",
+    "translation": "vô dụng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "utility",
+    "translation": "tiện ích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "undergo",
+    "translation": "trải qua",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "universe",
+    "translation": "vũ trụ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unemployed",
+    "translation": "thất nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unfortunately",
+    "translation": "thật không may",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "uniformly",
+    "translation": "đồng nhất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "upset",
+    "translation": "khó chịu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "valid",
+    "translation": "hợp lệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "various",
+    "translation": "khác nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vivid",
+    "translation": "sống động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "visible",
+    "translation": "có thể nhìn thấy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "viral",
+    "translation": "virus",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vehicle",
+    "translation": "xe cộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "violent",
+    "translation": "bạo lực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vendor",
+    "translation": "người bán hàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "venue",
+    "translation": "địa điểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vertical",
+    "translation": "theo chiều dọc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vouch",
+    "translation": "xác nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vibrate",
+    "translation": "rung động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "voucher",
+    "translation": "chứng từ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vacation",
+    "translation": "kỳ nghỉ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "variable",
+    "translation": "biến",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "volition",
+    "translation": "ý chí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "voyager",
+    "translation": "người du hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "volunteer",
+    "translation": "tình nguyện viên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vitality",
+    "translation": "sức sống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "variance",
+    "translation": "phương sai",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vacancy",
+    "translation": "chỗ trống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "valley",
+    "translation": "thung lũng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "volcano",
+    "translation": "núi lửa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vary",
+    "translation": "thay đổi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wind",
+    "translation": "gió",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wake",
+    "translation": "thức dậy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wire",
+    "translation": "dây điện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ward",
+    "translation": "phường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wood",
+    "translation": "gỗ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ware",
+    "translation": "đồ dùng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wash",
+    "translation": "rửa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wave",
+    "translation": "làn sóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "weak",
+    "translation": "yếu đuối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wage",
+    "translation": "tiền lương",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wish",
+    "translation": "ước gì",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "worry",
+    "translation": "lo lắng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "worth",
+    "translation": "giá trị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yard",
+    "translation": "sân",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wrong",
+    "translation": "sai",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "waste",
+    "translation": "chất thải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wheel",
+    "translation": "bánh xe",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wound",
+    "translation": "vết thương",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wrist",
+    "translation": "cổ tay",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wanna",
+    "translation": "muốn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "weapon",
+    "translation": "vũ khí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wrap",
+    "translation": "bọc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "welfare",
+    "translation": "phúc lợi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wildcard",
+    "translation": "ký tự đại diện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "whisper",
+    "translation": "thì thầm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "witness",
+    "translation": "nhân chứng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "waterfall",
+    "translation": "thác nước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wrinkle",
+    "translation": "nếp nhăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wealth",
+    "translation": "sự giàu có",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wholesale",
+    "translation": "bán buôn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "worthless",
+    "translation": "vô giá trị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "waive",
+    "translation": "từ bỏ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yonder",
+    "translation": "đằng kia",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yawn",
+    "translation": "ngáp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yell",
+    "translation": "hét lên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yacht",
+    "translation": "du thuyền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yummy",
+    "translation": "ngon quá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yearn",
+    "translation": "khao khát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "xenophobia",
+    "translation": "bài ngoại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intermediary",
+    "translation": "người trung gian",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tunnel",
+    "translation": "đường hầm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tailor",
+    "translation": "thợ may",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mass",
+    "translation": "khối lượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unreliable",
+    "translation": "không đáng tin cậy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "majority",
+    "translation": "đa số",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "impolite",
+    "translation": "bất lịch sự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "liquid",
+    "translation": "chất lỏng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reduce",
+    "translation": "giảm bớt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "minority",
+    "translation": "thiểu số",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "entrance",
+    "translation": "lối vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "solid",
+    "translation": "chất rắn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "catch",
+    "translation": "bắt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fact",
+    "translation": "sự thật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "truth",
+    "translation": "sự thật",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "borrow",
+    "translation": "mượn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "soon",
+    "translation": "sớm thôi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "early",
+    "translation": "sớm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "raise",
+    "translation": "nâng cao",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lift",
+    "translation": "nâng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fog",
+    "translation": "sương mù",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mist",
+    "translation": "sương mù",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "other",
+    "translation": "khác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fool",
+    "translation": "ngu ngốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stupid",
+    "translation": "ngu ngốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "idiot",
+    "translation": "đồ ngốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "busy",
+    "translation": "bận rộn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "occupied",
+    "translation": "chiếm đóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "area",
+    "translation": "khu vực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "region",
+    "translation": "khu vực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "zone",
+    "translation": "vùng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pocket",
+    "translation": "túi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bag",
+    "translation": "túi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trust",
+    "translation": "tin tưởng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shout",
+    "translation": "hét lên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "location",
+    "translation": "vị trí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ability",
+    "translation": "khả năng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "chance",
+    "translation": "cơ hội",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "possibility",
+    "translation": "khả năng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "realize",
+    "translation": "nhận ra",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "recognize",
+    "translation": "nhận ra",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "attention",
+    "translation": "chú ý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "remarkable",
+    "translation": "đáng chú ý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "understand",
+    "translation": "hiểu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "gotcha",
+    "translation": "hiểu rồi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "approve",
+    "translation": "chấp thuận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "agree",
+    "translation": "đồng ý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "claim",
+    "translation": "yêu sách",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "medicine",
+    "translation": "y học",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "drug",
+    "translation": "thuốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "soil",
+    "translation": "đất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ground",
+    "translation": "mặt đất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "land",
+    "translation": "đất đai",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "breeze",
+    "translation": "gió nhẹ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "freeze",
+    "translation": "đóng băng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "alike",
+    "translation": "giống nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "weird",
+    "translation": "kỳ lạ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "strange",
+    "translation": "kỳ lạ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "quirk",
+    "translation": "kỳ quặc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intelligent",
+    "translation": "thông minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "smart",
+    "translation": "thông minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wise",
+    "translation": "khôn ngoan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clever",
+    "translation": "thông minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "scene",
+    "translation": "bối cảnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "context",
+    "translation": "bối cảnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "scare",
+    "translation": "sợ hãi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fear",
+    "translation": "nỗi sợ hãi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "try",
+    "translation": "thử",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "effort",
+    "translation": "nỗ lực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "instruction",
+    "translation": "hướng dẫn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "demonstrate",
+    "translation": "chứng minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "military",
+    "translation": "quân sự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "army",
+    "translation": "quân đội",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "troops",
+    "translation": "quân đội",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "issue",
+    "translation": "vấn đề",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "problem",
+    "translation": "vấn đề",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fair",
+    "translation": "công bằng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "flu",
+    "translation": "cúm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Unless",
+    "translation": "trừ khi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Proof",
+    "translation": "bằng chứng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Aboard",
+    "translation": "trên tàu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Overseas",
+    "translation": "ở nước ngoài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "common",
+    "translation": "chung",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "comfort",
+    "translation": "sự thoải mái",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "concerns",
+    "translation": "mối quan tâm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "thought",
+    "translation": "suy nghĩ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "phenomena",
+    "translation": "hiện tượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fountain",
+    "translation": "đài phun nước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "handrall",
+    "translation": "tay cầm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "capable",
+    "translation": "có khả năng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "load",
+    "translation": "tải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "damage",
+    "translation": "thiệt hại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "minor",
+    "translation": "thứ yếu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unimportant",
+    "translation": "không quan trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "conserve",
+    "translation": "bảo tồn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "save",
+    "translation": "lưu lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "decline",
+    "translation": "suy giảm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "discourage",
+    "translation": "làm nản lòng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dissuade",
+    "translation": "can ngăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "customary",
+    "translation": "phong tục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "modern",
+    "translation": "hiện đại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "contemporary",
+    "translation": "đương đại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inconvenient",
+    "translation": "bất tiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "troublesome",
+    "translation": "rắc rối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "special",
+    "translation": "đặc biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ordinary",
+    "translation": "bình thường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "withhold",
+    "translation": "giữ lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "optional",
+    "translation": "tùy chọn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unnecessary",
+    "translation": "không cần thiết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "outdated",
+    "translation": "lỗi thời",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shy",
+    "translation": "nhút nhát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "timid",
+    "translation": "rụt rè",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "adaptable",
+    "translation": "có thể thích nghi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rigid",
+    "translation": "cứng nhắc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inflexible",
+    "translation": "không linh hoạt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "contamination",
+    "translation": "ô nhiễm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "purity",
+    "translation": "sự tinh khiết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cleanliness",
+    "translation": "sự sạch sẽ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "generate",
+    "translation": "tạo ra",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "occupation",
+    "translation": "nghề nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "profession",
+    "translation": "nghề nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unemployment",
+    "translation": "thất nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "joblessness",
+    "translation": "thất nghiệp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ineffective",
+    "translation": "không hiệu quả",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inefficient",
+    "translation": "không hiệu quả",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disadvantage",
+    "translation": "bất lợi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "necessary",
+    "translation": "cần thiết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enormous",
+    "translation": "to lớn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tiny",
+    "translation": "nhỏ bé",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "well-known",
+    "translation": "nổi tiếng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unknown",
+    "translation": "không rõ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "obscure",
+    "translation": "mơ hồ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hesitate",
+    "translation": "do dự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pause",
+    "translation": "tạm dừng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proceed",
+    "translation": "tiến hành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "abandon",
+    "translation": "bỏ rơi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "neglect",
+    "translation": "bỏ bê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cooperation",
+    "translation": "hợp tác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "collaboration",
+    "translation": "sự hợp tác",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "conflict",
+    "translation": "xung đột",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disagreement",
+    "translation": "bất đồng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "city",
+    "translation": "thành phố",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rural",
+    "translation": "nông thôn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "countryside",
+    "translation": "nông thôn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inhabitant",
+    "translation": "cư dân",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "visitor",
+    "translation": "du khách",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "renewable",
+    "translation": "tái tạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "non-renewable",
+    "translation": "không thể tái tạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "exhaustible",
+    "translation": "có thể cạn kiệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "increase",
+    "translation": "tăng lên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rise",
+    "translation": "tăng lên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "poverty",
+    "translation": "nghèo đói",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lack of money",
+    "translation": "thiếu tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "allow",
+    "translation": "cho phép",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "careful",
+    "translation": "cẩn thận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reckless",
+    "translation": "liều lĩnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "careless",
+    "translation": "bất cẩn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "catastrophe",
+    "translation": "thảm họa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "blessing",
+    "translation": "phước lành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "duty",
+    "translation": "nghĩa vụ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "irresponsibility",
+    "translation": "sự vô trách nhiệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "carelessness",
+    "translation": "sự bất cẩn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "remote",
+    "translation": "từ xa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "distant",
+    "translation": "xa xôi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "nearby",
+    "translation": "gần đó",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "close",
+    "translation": "đóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "compulsory",
+    "translation": "bắt buộc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "calm",
+    "translation": "bình tĩnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "aggressive",
+    "translation": "hung hãn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "achievement",
+    "translation": "thành tựu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "failure",
+    "translation": "thất bại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "defeat",
+    "translation": "đánh bại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tired",
+    "translation": "mệt mỏi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "energetic",
+    "translation": "tràn đầy năng lượng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "refreshed",
+    "translation": "được làm mới",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expensive",
+    "translation": "đắt tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "simple",
+    "translation": "đơn giản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "modest",
+    "translation": "khiêm tốn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "endure",
+    "translation": "chịu đựng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "refuse",
+    "translation": "từ chối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reject",
+    "translation": "từ chối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "household",
+    "translation": "hộ gia đình",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "international",
+    "translation": "quốc tế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "foreign",
+    "translation": "nước ngoài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "vanish",
+    "translation": "biến mất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disappear",
+    "translation": "biến mất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "appear",
+    "translation": "xuất hiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "emerge",
+    "translation": "nổi lên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "keep",
+    "translation": "giữ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "accept",
+    "translation": "chấp nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disapprove",
+    "translation": "không chấp thuận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wide",
+    "translation": "rộng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "narrow",
+    "translation": "thu hẹp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tight",
+    "translation": "chặt chẽ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "complicated",
+    "translation": "phức tạp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "complex",
+    "translation": "phức tạp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "easy",
+    "translation": "dễ dàng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "delighted",
+    "translation": "vui mừng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unhappy",
+    "translation": "không vui",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "miserable",
+    "translation": "khốn khổ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "hesitant",
+    "translation": "do dự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "uncertain",
+    "translation": "không chắc chắn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "calamity",
+    "translation": "tai họa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "miracle",
+    "translation": "phép lạ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "economical",
+    "translation": "tiết kiệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wasteful",
+    "translation": "lãng phí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "extravagant",
+    "translation": "ngông cuồng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "active",
+    "translation": "hoạt động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lazy",
+    "translation": "lười biếng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inactive",
+    "translation": "không hoạt động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "crucial",
+    "translation": "quan trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "insignificant",
+    "translation": "không đáng kể",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trivial",
+    "translation": "tầm thường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enlarge",
+    "translation": "phóng to",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shrink",
+    "translation": "co lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "loyal",
+    "translation": "trung thành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unfaithful",
+    "translation": "không chung thủy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disloyal",
+    "translation": "không trung thành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lucky",
+    "translation": "may mắn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unfortunate",
+    "translation": "không may",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unlucky",
+    "translation": "không may mắn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "delicate",
+    "translation": "tinh tế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "strong",
+    "translation": "mạnh mẽ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "durable",
+    "translation": "bền bỉ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "authentic",
+    "translation": "đích thực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fake",
+    "translation": "giả mạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "counterfeit",
+    "translation": "giả mạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dangerous",
+    "translation": "nguy hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "safe",
+    "translation": "an toàn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "secure",
+    "translation": "an toàn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "identical",
+    "translation": "giống hệt nhau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "distinct",
+    "translation": "khác biệt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "insufficient",
+    "translation": "không đủ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inadequate",
+    "translation": "không đầy đủ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "envious",
+    "translation": "ghen tị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "content",
+    "translation": "nội dung",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fairness",
+    "translation": "sự công bằng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "injustice",
+    "translation": "sự bất công",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unfairness",
+    "translation": "sự bất công",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reasonable",
+    "translation": "hợp lý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "illogical",
+    "translation": "phi logic",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unreasonable",
+    "translation": "vô lý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grown-up",
+    "translation": "trưởng thành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "immature",
+    "translation": "chưa trưởng thành",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "childish",
+    "translation": "trẻ con",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "required",
+    "translation": "bắt buộc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "compliant",
+    "translation": "tuân thủ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "disobedient",
+    "translation": "không vâng lời",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rebellious",
+    "translation": "nổi loạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tolerant",
+    "translation": "khoan dung",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "impatient",
+    "translation": "thiếu kiên nhẫn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intolerant",
+    "translation": "không khoan dung",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lasting",
+    "translation": "lâu dài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "short-term",
+    "translation": "ngắn hạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "well-liked",
+    "translation": "được yêu thích",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unpopular",
+    "translation": "không được ưa chuộng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ignore",
+    "translation": "bỏ qua",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "overlook",
+    "translation": "bỏ qua",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "on time",
+    "translation": "đúng giờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "late",
+    "translation": "muộn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tardy",
+    "translation": "đi trễ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trustworthy",
+    "translation": "đáng tin cậy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "untrustworthy",
+    "translation": "không đáng tin cậy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "risky",
+    "translation": "nguy hiểm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pleased",
+    "translation": "hài lòng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dissatisfied",
+    "translation": "không hài lòng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "displeased",
+    "translation": "không hài lòng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "scarce",
+    "translation": "khan hiếm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "abundant",
+    "translation": "dồi dào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "plentiful",
+    "translation": "dồi dào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "self-centered",
+    "translation": "tự cho mình là trung tâm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "generous",
+    "translation": "hào phóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "kind",
+    "translation": "loại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "grave",
+    "translation": "phần mộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "noisy",
+    "translation": "ồn ào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "talented",
+    "translation": "có tài",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unskillful",
+    "translation": "không khéo léo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clumsy",
+    "translation": "vụng về",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rough",
+    "translation": "thô",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "uneven",
+    "translation": "không đồng đều",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "obstinate",
+    "translation": "cố chấp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "enough",
+    "translation": "đủ rồi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "lacking",
+    "translation": "thiếu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "doubtful",
+    "translation": "nghi ngờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trustful",
+    "translation": "đáng tin cậy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clear",
+    "translation": "rõ ràng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "opaque",
+    "translation": "mờ đục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unclear",
+    "translation": "không rõ ràng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "precious",
+    "translation": "quý giá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "triumph",
+    "translation": "chiến thắng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rich",
+    "translation": "giàu có",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "poor",
+    "translation": "nghèo nàn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "impoverished",
+    "translation": "nghèo khó",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "foolish",
+    "translation": "ngu ngốc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unwise",
+    "translation": "không khôn ngoan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "scheme",
+    "translation": "kế hoạch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "motives",
+    "translation": "động cơ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "procedures",
+    "translation": "thủ tục",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clash",
+    "translation": "xung đột",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Move",
+    "translation": "di chuyển",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Into",
+    "translation": "vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "breathe",
+    "translation": "thở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "breath",
+    "translation": "hơi thở",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "resign",
+    "translation": "từ chức",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "oversee",
+    "translation": "giám sát",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "possess",
+    "translation": "sở hữu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proposal",
+    "translation": "đề nghị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "buried",
+    "translation": "chôn cất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "anyway",
+    "translation": "dù sao đi nữa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rely",
+    "translation": "dựa vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "charity",
+    "translation": "từ thiện",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "corporate",
+    "translation": "công ty",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bend",
+    "translation": "uốn cong",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pretend",
+    "translation": "giả vờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "memo",
+    "translation": "bản ghi nhớ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "anticipate",
+    "translation": "đoán trước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "visual",
+    "translation": "trực quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sight",
+    "translation": "tầm nhìn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mark",
+    "translation": "đánh dấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reel",
+    "translation": "cuộn dây",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "compet",
+    "translation": "cạnh tranh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "overflow",
+    "translation": "tràn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "spread",
+    "translation": "lây lan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "boot",
+    "translation": "khởi động",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "boost",
+    "translation": "tăng cường",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "continent",
+    "translation": "lục địa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "prudent",
+    "translation": "thận trọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "boat",
+    "translation": "thuyền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "react",
+    "translation": "phản ứng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "influential",
+    "translation": "có ảnh hưởng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "barrier",
+    "translation": "rào cản",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "anxiety",
+    "translation": "lo lắng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mood",
+    "translation": "tâm trạng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "moan",
+    "translation": "rên rỉ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fossil",
+    "translation": "hóa thạch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shape",
+    "translation": "hình dạng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tackle",
+    "translation": "giải quyết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "devote",
+    "translation": "cống hiến",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mimic",
+    "translation": "bắt chước",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tide",
+    "translation": "thủy triều",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "out of money",
+    "translation": "hết tiền",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "appreciate",
+    "translation": "đánh giá cao",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "ride",
+    "translation": "đi xe",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "glow",
+    "translation": "phát sáng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "conveyor",
+    "translation": "băng tải",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "baggage",
+    "translation": "hành lý",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "congest",
+    "translation": "ùn tắc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "phase",
+    "translation": "giai đoạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "mall",
+    "translation": "trung tâm mua sắm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "accidental",
+    "translation": "tình cờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "camp",
+    "translation": "trại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "properly",
+    "translation": "đúng cách",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "relate",
+    "translation": "liên quan",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "specified",
+    "translation": "được chỉ định",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "schema",
+    "translation": "lược đồ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sink",
+    "translation": "bồn rửa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "doubt",
+    "translation": "nghi ngờ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "idle",
+    "translation": "nhàn rỗi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "performance",
+    "translation": "hiệu suất",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "parse",
+    "translation": "phân tích cú pháp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "term",
+    "translation": "kỳ hạn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clipboard",
+    "translation": "bìa kẹp hồ sơ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "intercept",
+    "translation": "chặn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wipe",
+    "translation": "lau",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "repose",
+    "translation": "nghỉ ngơi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "depose",
+    "translation": "hạ bệ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "oppose",
+    "translation": "phản đối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "propose",
+    "translation": "đề nghị",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "customize",
+    "translation": "tùy chỉnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "activate",
+    "translation": "kích hoạt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "seal",
+    "translation": "con dấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inset",
+    "translation": "chèn vào",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "subsume",
+    "translation": "gộp lại",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "invitation",
+    "translation": "lời mời",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "former",
+    "translation": "trước đây",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sponsor",
+    "translation": "nhà tài trợ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Desire",
+    "translation": "mong muốn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Upon",
+    "translation": "khi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Breach",
+    "translation": "vi phạm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Refine",
+    "translation": "tinh chỉnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "atmosphere",
+    "translation": "bầu không khí",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rack",
+    "translation": "giá đỡ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "carpet",
+    "translation": "thảm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "beg",
+    "translation": "ăn xin",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "convey",
+    "translation": "truyền đạt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pure",
+    "translation": "tinh khiết",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dish",
+    "translation": "món ăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "badge",
+    "translation": "huy hiệu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "audition",
+    "translation": "buổi thử giọng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pan",
+    "translation": "chảo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fry",
+    "translation": "chiên",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dip",
+    "translation": "nhúng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "glance",
+    "translation": "liếc nhìn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "clip",
+    "translation": "cái kẹp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bell",
+    "translation": "chuông",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pantio",
+    "translation": "phòng đựng thức ăn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "let",
+    "translation": "hãy để",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "leave",
+    "translation": "rời đi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "yet",
+    "translation": "chưa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rental",
+    "translation": "cho thuê",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "feasible",
+    "translation": "khả thi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "courier",
+    "translation": "chuyển phát nhanh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stream",
+    "translation": "dòng suối",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "premier",
+    "translation": "thủ tướng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cushion",
+    "translation": "đệm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "brochure",
+    "translation": "tờ rơi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "crew",
+    "translation": "phi hành đoàn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "screw",
+    "translation": "vít",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bolt",
+    "translation": "chốt",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "malfunction",
+    "translation": "trục trặc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "justify",
+    "translation": "biện minh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "council",
+    "translation": "hội đồng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "unfavorable",
+    "translation": "không thuận lợi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pitch",
+    "translation": "cao độ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bid",
+    "translation": "giá thầu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "trim",
+    "translation": "cắt tỉa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "banquet",
+    "translation": "bữa tiệc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "layover",
+    "translation": "quá cảnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "demolition",
+    "translation": "phá hủy",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "reassurance",
+    "translation": "sự trấn an",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "excuse",
+    "translation": "xin lỗi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "catering",
+    "translation": "phục vụ ăn uống",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "suburban",
+    "translation": "ngoại ô",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rating",
+    "translation": "đánh giá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pot",
+    "translation": "cái nồi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "wing",
+    "translation": "cánh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "bulk",
+    "translation": "số lượng lớn",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shade",
+    "translation": "bóng râm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "praise",
+    "translation": "khen ngợi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "morale",
+    "translation": "tinh thần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "sturdy",
+    "translation": "vững chắc",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "stroll",
+    "translation": "đi dạo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "tow",
+    "translation": "kéo",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "dock",
+    "translation": "bến tàu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "shore",
+    "translation": "bờ biển",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "cuisine",
+    "translation": "ẩm thực",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "inspiring",
+    "translation": "truyền cảm hứng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "fade",
+    "translation": "mờ dần",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "walkway",
+    "translation": "lối đi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "proceeds",
+    "translation": "tiền thu được",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "alternate",
+    "translation": "thay thế",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "recipient",
+    "translation": "người nhận",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "beacon",
+    "translation": "đèn hiệu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "patch",
+    "translation": "vá",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Downtown",
+    "translation": "trung tâm thành phố",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Next to",
+    "translation": "bên cạnh",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Fixture",
+    "translation": "lịch thi đấu",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Fragrance",
+    "translation": "nước hoa",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "Personnel",
+    "translation": "nhân sự",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "archway",
+    "translation": "cổng vòm",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "rehearse",
+    "translation": "luyện tập",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "pedestrian",
+    "translation": "người đi bộ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "brick",
+    "translation": "gạch",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "polish",
+    "translation": "đánh bóng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "comply",
+    "translation": "tuân thủ",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "blame",
+    "translation": "đổ lỗi",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "contribute",
+    "translation": "đóng góp",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "satisfied",
+    "translation": "hài lòng",
+    "ipa": "",
+    "learned": false
+  },
+  {
+    "word": "expertise",
+    "translation": "chuyên môn",
+    "ipa": "",
+    "learned": false
+  }
+]
