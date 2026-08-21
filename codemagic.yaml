@@ -84,7 +84,12 @@ workflows:
         script: npm run build
 
       - name: Add iOS platform
-        script: npx cap add ios
+        script: |
+          set -x
+          npx cap add ios
+          echo "EXIT CODE: $?"
+          ls -la
+          ls -la ios/ || echo "NO IOS DIR"
 
       - name: Sync Capacitor
         script: npx cap sync ios
