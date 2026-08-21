@@ -7,7 +7,6 @@ workflows:
     environment:
       node: 22.11.0
       xcode: latest
-      cocoapods: default
 
     scripts:
       - name: Install dependencies
@@ -84,34 +83,15 @@ workflows:
         script: npm run build
 
       - name: Add iOS platform
-        script: |
-          set -x
-          npx cap add ios
-          echo "EXIT CODE: $?"
-          ls -la
-          ls -la ios/ || echo "NO IOS DIR"
+        script: npx cap add ios
 
       - name: Sync Capacitor
         script: npx cap sync ios
 
-      - name: Install CocoaPods
-        script: |
-          echo "Finding Podfile..."
-          find . -name "Podfile" -not -path "*/node_modules/*"
-          PODFILE=$(find . -name "Podfile" -not -path "*/node_modules/*" | head -1)
-          if [ -z "$PODFILE" ]; then
-            echo "No Podfile found, trying ios/ directly"
-            cd ios && pod install
-          else
-            PODDIR=$(dirname "$PODFILE")
-            echo "Found Podfile at: $PODDIR"
-            cd "$PODDIR" && pod install
-          fi
-
       - name: Build unsigned IPA
         script: |
           xcodebuild \
-            -workspace ios/App/App.xcworkspace \
+            -project ios/App/App.xcodeproj \
             -scheme App \
             -configuration Release \
             -sdk iphoneos \
@@ -123,7 +103,7 @@ workflows:
             archive
 
           mkdir -p build/ipa/Payload
-          cp -r build/App.xcarchive/Products/Applications/App.app build/ipa/Payload/
+          cp -r build/App.xcarchive/Products/Applications/*.app build/ipa/Payload/
           cd build/ipa
           zip -r ../VocabTrainer.ipa Payload/
 
