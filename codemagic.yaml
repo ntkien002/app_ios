@@ -67,11 +67,24 @@ workflows:
           @tailwind utilities;
           EOF
 
+      - name: Create Capacitor config
+        script: |
+          cat > capacitor.config.json << 'EOF'
+          {
+            "appId": "com.ntkien.vocabtrainer",
+            "appName": "Vocab Trainer",
+            "webDir": "dist",
+            "server": {
+              "androidScheme": "https"
+            }
+          }
+          EOF
+
       - name: Build web app
         script: npm run build
 
-      - name: Install Capacitor
-        script: npx cap add ios || true
+      - name: Add iOS platform
+        script: npx cap add ios
 
       - name: Sync Capacitor
         script: npx cap sync ios
