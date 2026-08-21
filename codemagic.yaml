@@ -59,6 +59,14 @@ workflows:
           };
           EOF
 
+      - name: Patch index.css for Tailwind v3
+        script: |
+          cat > src/index.css << 'EOF'
+          @tailwind base;
+          @tailwind components;
+          @tailwind utilities;
+          EOF
+
       - name: Build web app
         script: npm run build
 
