@@ -8,12 +8,6 @@ workflows:
       node: 18.17.0
       xcode: latest
       cocoapods: default
-      vars:
-        BUNDLE_ID: "com.ntkien.vocabtrainer"
-        APP_NAME: "Vocab Trainer"
-      ios_signing:
-        distribution_type: ad_hoc        # Đổi thành app_store nếu muốn lên App Store
-        bundle_identifier: com.ntkien.vocabtrainer
 
     scripts:
       - name: Install dependencies
@@ -25,7 +19,7 @@ workflows:
       - name: Install Capacitor iOS
         script: |
           npm install @capacitor/core @capacitor/cli @capacitor/ios
-          npx cap add ios || true   # "|| true" để không lỗi nếu ios/ đã tồn tại
+          npx cap add ios || true
 
       - name: Sync Capacitor
         script: npx cap sync ios
@@ -35,26 +29,33 @@ workflows:
           cd ios/App
           pod install
 
-      - name: Set build number
+      - name: Build unsigned IPA
         script: |
-          cd ios/App
-          LATEST_BUILD=$(app-store-connect get-latest-testflight-build-number "$BUNDLE_ID" 2>/dev/null || echo "0")
-          agvtool new-version -all $(($LATEST_BUILD + 1))
+          xcodebuild \
+            -workspace ios/App/App.xcworkspace \
+            -scheme App \
+            -configuration Release \
+            -sdk iphoneos \
+            -derivedDataPath build \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO \
+            -archivePath build/App.xcarchive \
+            archive
 
-      - name: Build .ipa
-        script: |
-          xcode-project build-ipa \
-            --workspace ios/App/App.xcworkspace \
-            --scheme App
+          mkdir -p build/ipa
+          cp -r build/App.xcarchive/Products/Applications/App.app build/ipa/
+          cd build/ipa
+          zip -r ../VocabTrainer.ipa Payload/
 
     artifacts:
-      - build/ios/ipa/*.ipa
+      - build/VocabTrainer.ipa
       - /tmp/xcodebuild_logs/*.log
 
     publishing:
       email:
         recipients:
-          - thanhkienagee@gmail.com   # Email của bạn trên Codemagic
+          - thanhkienagee@gmail.com
         notify:
           success: true
           failure: true
