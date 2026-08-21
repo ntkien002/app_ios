@@ -86,21 +86,22 @@ workflows:
       - name: Add iOS platform
         script: npx cap add ios
 
-      - name: Debug ios folder
-        script: |
-          echo "=== ios/ ===" 
-          ls -la ios/ || echo "NO IOS FOLDER"
-          echo "=== ios/App/ ===" 
-          ls -la ios/App/ || echo "NO IOS/APP"
-          find . -name "Podfile" || echo "NO PODFILE"
-
       - name: Sync Capacitor
         script: npx cap sync ios
 
       - name: Install CocoaPods
         script: |
-          cd ios/App
-          pod install
+          echo "Finding Podfile..."
+          find . -name "Podfile" -not -path "*/node_modules/*"
+          PODFILE=$(find . -name "Podfile" -not -path "*/node_modules/*" | head -1)
+          if [ -z "$PODFILE" ]; then
+            echo "No Podfile found, trying ios/ directly"
+            cd ios && pod install
+          else
+            PODDIR=$(dirname "$PODFILE")
+            echo "Found Podfile at: $PODDIR"
+            cd "$PODDIR" && pod install
+          fi
 
       - name: Build unsigned IPA
         script: |
