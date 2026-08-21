@@ -86,6 +86,14 @@ workflows:
       - name: Add iOS platform
         script: npx cap add ios
 
+      - name: Debug ios folder
+        script: |
+          echo "=== ios/ ===" 
+          ls -la ios/ || echo "NO IOS FOLDER"
+          echo "=== ios/App/ ===" 
+          ls -la ios/App/ || echo "NO IOS/APP"
+          find . -name "Podfile" || echo "NO PODFILE"
+
       - name: Sync Capacitor
         script: npx cap sync ios
 
@@ -124,14 +132,3 @@ workflows:
         notify:
           success: true
           failure: true
-
-      - name: Add iOS platform
-        script: npx cap add ios
-
-      - name: Debug ios folder
-        script: |
-          echo "=== ios/ ===" 
-          ls -la ios/ || echo "NO IOS FOLDER"
-          echo "=== ios/App/ ===" 
-          ls -la ios/App/ || echo "NO IOS/APP"
-          find . -name "Podfile" || echo "NO PODFILE"
