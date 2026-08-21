@@ -1,0 +1,6 @@
+{
+	"appId": "com.yourname.vocabtrainer",
+	"appName": "Vocab Trainer",
+	"webDir": "dist",
+	"packageClassList": []
+}
